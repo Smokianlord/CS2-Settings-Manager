@@ -29,7 +29,7 @@
 						{
 							"last_sync_state"		"conflictingchanges"
 						}
-						"LaunchOptions"		"-window -w 383 -h 510 +fps_max 30 -nosound -nojoy -nohltv -novid +exec autoexec"
+						"LaunchOptions"		"-window -w 319 -h 255 +fps_max 30 -nosound -nojoy -nohltv -novid -noreflex"
 						"autocloud"
 						{
 							"lastlaunch"		"1747936064"

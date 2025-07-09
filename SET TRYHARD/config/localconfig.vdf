@@ -29,7 +29,7 @@
 						{
 							"last_sync_state"		"changesincloudandlocally"
 						}
-						"LaunchOptions"		"-high -novid -nojoy -console"
+						"LaunchOptions"		"-high -novid -nojoy -console -noreflex"
 						"autocloud"
 						{
 							"lastlaunch"		"1735367745"
