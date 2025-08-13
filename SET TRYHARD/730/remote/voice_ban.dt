@@ -2,5 +2,4 @@
 {
 	users = null
 	player_volume_map = null
-	access_history = null
 }

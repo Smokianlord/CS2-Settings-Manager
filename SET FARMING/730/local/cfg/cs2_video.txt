@@ -1,7 +1,7 @@
 "video.cfg"
 {
 	"setting.defaultres"		"640"
-	"setting.defaultresheight"		"510"
+	"setting.defaultresheight"		"480"
 	"setting.refreshrate_numerator"		"0"
 	"setting.refreshrate_denominator"		"0"
 	"setting.fullscreen"		"0"
@@ -24,7 +24,7 @@
 	"setting.videocfg_fsr_detail"		"4"
 	"setting.videocfg_hdr_detail"		"3"
 	"setting.r_texturefilteringquality"		"0"
-	"setting.r_low_latency"		"0"
+	"setting.r_low_latency"		"2"
 	"setting.r_csgo_cmaa_enable"		"0"
 	"AutoConfig"		"2"
 	"setting.msaa_samples"		"0"
