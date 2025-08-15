@@ -22,9 +22,9 @@
 					}
 					"730"
 					{
-						"LastPlayed"		"1755117334"
-						"Playtime2wks"		"690"
-						"Playtime"		"287441"
+						"LastPlayed"		"1755263817"
+						"Playtime2wks"		"850"
+						"Playtime"		"287612"
 						"cloud"
 						{
 							"last_sync_state"		"conflictingchanges"
@@ -32,8 +32,8 @@
 						"LaunchOptions"		"-novid -nojoy -high +fps_max 0 -console"
 						"autocloud"
 						{
-							"lastlaunch"		"1755116447"
-							"lastexit"		"1755117334"
+							"lastlaunch"		"1755263533"
+							"lastexit"		"1755263816"
 						}
 						"BadgeData"		"12000000086612060805100118001206080110011801"
 						"DisableUpdatesUntil"		"0"
@@ -44,8 +44,8 @@
 						{
 							"quota_bytes"		"20000000000"
 							"quota_files"		"50000"
-							"used_bytes"		"56032204"
-							"used_files"		"436"
+							"used_bytes"		"56557985"
+							"used_files"		"438"
 						}
 					}
 					"2371090"
@@ -113,8 +113,8 @@
 						}
 						"autocloud"
 						{
-							"lastlaunch"		"1755116448"
-							"lastexit"		"1755117334"
+							"lastlaunch"		"1755263534"
+							"lastexit"		"1755263816"
 						}
 					}
 					"70"
@@ -1529,7 +1529,7 @@
 					{
 						"LastPlayed"		"1754109418"
 						"Playtime"		"185"
-						"Playtime2wks"		"127"
+						"Playtime2wks"		"10"
 					}
 					"1142500"
 					{
@@ -1698,31 +1698,27 @@
 					"362890"
 					{
 						"LastPlayed"		"1754148424"
-						"Playtime2wks"		"217"
+						"Playtime2wks"		"100"
 						"Playtime"		"217"
 					}
 					"699600"
 					{
 						"LastPlayed"		"1754002609"
-						"Playtime2wks"		"55"
 						"Playtime"		"55"
 					}
 					"1836120"
 					{
 						"LastPlayed"		"1754002453"
-						"Playtime2wks"		"52"
 						"Playtime"		"52"
 					}
 					"546090"
 					{
 						"LastPlayed"		"1753998668"
-						"Playtime2wks"		"21"
 						"Playtime"		"21"
 					}
 					"701470"
 					{
 						"LastPlayed"		"1753998667"
-						"Playtime2wks"		"21"
 						"Playtime"		"21"
 					}
 					"3241660"
@@ -1733,7 +1729,7 @@
 						}
 					}
 				}
-				"LastPlayedTimesSyncTime"		"1755031308"
+				"LastPlayedTimesSyncTime"		"1755216530"
 				"PlayerLevel"		"102"
 				"SmallMode"		"0"
 			}
@@ -1848,10 +1844,11 @@
 		}
 		"1112077166"
 		{
-			"name"		"Blacksaga"
+			"name"		"Talion"
 			"NameHistory"
 			{
-				"0"		"Blacksaga"
+				"0"		"Talion"
+				"1"		"Blacksaga"
 			}
 			"avatar"		"0e96fd1da4c91017a7c1de980d6361b139e6831d"
 		}
@@ -1939,17 +1936,18 @@
 		}
 		"1101861395"
 		{
-			"name"		"late4ver"
+			"name"		"mirage gamer"
 			"NameHistory"
 			{
-				"0"		"late4ver"
-				"1"		"latte"
-				"2"		"tong er cha"
-				"3"		"mirpur gamer"
-				"4"		"late017"
-				"5"		"=D"
-				"6"		"late4ever"
-				"7"		"solkin"
+				"0"		"mirage gamer"
+				"1"		"late4ver"
+				"2"		"latte"
+				"3"		"tong er cha"
+				"4"		"mirpur gamer"
+				"5"		"late017"
+				"6"		"=D"
+				"7"		"late4ever"
+				"8"		"solkin"
 			}
 			"avatar"		"32cb60e7e4260ec46015bfd3d04f435c4b9192d9"
 		}
@@ -2098,14 +2096,16 @@
 		}
 		"345932040"
 		{
-			"name"		"BadJoke"
+			"name"		"我正在休息"
 			"NameHistory"
 			{
-				"0"		"BadJoke"
-				"1"		"5K"
-				"2"		"LOGAN"
-				"3"		"E N A M"
-				"4"		"L O G A N"
+				"0"		"我正在休息"
+				"1"		"印度狗和中国狗"
+				"2"		"BadJoke"
+				"3"		"5K"
+				"4"		"LOGAN"
+				"5"		"E N A M"
+				"6"		"L O G A N"
 			}
 			"avatar"		"cec494c061aa7fa76710aeafb8a7ec3c92fef512"
 		}
@@ -3247,14 +3247,15 @@
 		}
 		"891423239"
 		{
-			"name"		"N00MAS FREEMONEY.NET"
+			"name"		"N00MAS CS2-CASES.COM"
 			"NameHistory"
 			{
-				"0"		"N00MAS FREEMONEY.NET"
-				"1"		"N00MAS"
-				"2"		"N00MAS DROP.SKIN"
+				"0"		"N00MAS CS2-CASES.COM"
+				"1"		"N00MAS FREEMONEY.NET"
+				"2"		"N00MAS"
+				"3"		"N00MAS DROP.SKIN"
 			}
-			"avatar"		"a68e5097fe5095f7c8cf7881d92b9f7b1492c5c1"
+			"avatar"		"d9da445794674cfffb912a87e5714e5645e0458c"
 		}
 		"1204722578"
 		{
@@ -4124,10 +4125,11 @@
 		}
 		"404303768"
 		{
-			"name"		"Missing or Feed"
+			"name"		"La Passion"
 			"NameHistory"
 			{
-				"0"		"Missing or Feed"
+				"0"		"La Passion"
+				"1"		"Missing or Feed"
 			}
 			"avatar"		"148ff422f2245ab66abfeabf3f7506861d6b703b"
 		}
@@ -4383,6 +4385,15 @@
 			}
 			"avatar"		"5261bbb3579392b1b846981f6e83a00ac9dcedda"
 		}
+		"1879441459"
+		{
+			"name"		"BigCash"
+			"NameHistory"
+			{
+				"0"		"BigCash"
+			}
+			"avatar"		"f2510610d7a19775dc00d11dce67f417e26edb06"
+		}
 	}
 	"SharedAuth"
 	{
@@ -4396,16 +4407,16 @@
 	}
 	"Offline"
 	{
-		"Ticket"		"0882d8d48b011592ec9c68"
-		"Signature"		"57596abea2cb9ceb2d622e38be2d9f87322daef5607686777a69eb83aeb4206ad593d0969874066104e47e6a911ef3687072a7bd7469276329fe16bec4f8da45a682fe07ffb122203666e0e5d3f634b5452e80b5bbfdb65266fff462395864cee9741f67c56ef19db69eeb5e949f75fffda90a3d167ed0dfc3d853399262a5896af6cfe5a19adbb30a3a3e9cfe8933340dbabb22264253697b5061cb36d1d3fbf964e4bb114ffa80b9f5e2503c66e39546e883abe7a7d0e09c99dd1e1a860606a36ef30dab9530881c09c57c8901cad4f7f637250952e9dffe566130c6623a509ee8c49be0b7f5dff67e46aac2073b21e6621afdc7d7824600192818383d771e"
-		"EncryptedTicket"		"0a20238af89247d85cb5e7b69cd0026cbe821047de1d792db1e42d8670d04b5c56e212800257596abea2cb9ceb2d622e38be2d9f87322daef5607686777a69eb83aeb4206ad593d0969874066104e47e6a911ef3687072a7bd7469276329fe16bec4f8da45a682fe07ffb122203666e0e5d3f634b5452e80b5bbfdb65266fff462395864cee9741f67c56ef19db69eeb5e949f75fffda90a3d167ed0dfc3d853399262a5896af6cfe5a19adbb30a3a3e9cfe8933340dbabb22264253697b5061cb36d1d3fbf964e4bb114ffa80b9f5e2503c66e39546e883abe7a7d0e09c99dd1e1a860606a36ef30dab9530881c09c57c8901cad4f7f637250952e9dffe566130c6623a509ee8c49be0b7f5dff67e46aac2073b21e6621afdc7d7824600192818383d771e18062208d571958231c8886728043208fd69edfcc0d6b038"
-		"EncryptedSignature"		"57596abea2cb9ceb2d622e38be2d9f87322daef5607686777a69eb83aeb4206ad593d0969874066104e47e6a911ef3687072a7bd7469276329fe16bec4f8da45a682fe07ffb122203666e0e5d3f634b5452e80b5bbfdb65266fff462395864cee9741f67c56ef19db69eeb5e949f75fffda90a3d167ed0dfc3d853399262a5896af6cfe5a19adbb30a3a3e9cfe8933340dbabb22264253697b5061cb36d1d3fbf964e4bb114ffa80b9f5e2503c66e39546e883abe7a7d0e09c99dd1e1a860606a36ef30dab9530881c09c57c8901cad4f7f637250952e9dffe566130c6623a509ee8c49be0b7f5dff67e46aac2073b21e6621afdc7d7824600192818383d771e"
+		"Ticket"		"0882d8d48b0115ff239f68"
+		"Signature"		"21b5cbedfd8157ab68e7d30480026bd6156072a449801c9e9091f9baa5849697b8bfcd52bb082e3a84d9b0e2329e2158cfe526b0d10e6765608827d9ed052518eeae7f5d956d3c9350e4450c636bf42ff38e9119335f8d458f3a2140f5ac6c662e0fbf67cfb5fb23852a5e1b2347ca58aaf5d31e2a19f37b9bb1bc23dc041c021a1e86f675cbc74b61ae7f4abc2e68675035ef59ff80725bcb1a8db6447cae4098986d9ecdecbd8e8388b5af7d00f0bfdf7bd65cc4078409fee530ec54708964c5903ac2a259bc04ab9245bc65063622825627a0845ccb2bc39f1b9c5bc65cd8d815b3927f1f832422835f5a937e28ff043353a9cec00b51d0e3a21d5890e435"
+		"EncryptedTicket"		"0a20c37d1384971cabc6747da7b12728c9ba747e403e5051653de41052f815e5e8f712800221b5cbedfd8157ab68e7d30480026bd6156072a449801c9e9091f9baa5849697b8bfcd52bb082e3a84d9b0e2329e2158cfe526b0d10e6765608827d9ed052518eeae7f5d956d3c9350e4450c636bf42ff38e9119335f8d458f3a2140f5ac6c662e0fbf67cfb5fb23852a5e1b2347ca58aaf5d31e2a19f37b9bb1bc23dc041c021a1e86f675cbc74b61ae7f4abc2e68675035ef59ff80725bcb1a8db6447cae4098986d9ecdecbd8e8388b5af7d00f0bfdf7bd65cc4078409fee530ec54708964c5903ac2a259bc04ab9245bc65063622825627a0845ccb2bc39f1b9c5bc65cd8d815b3927f1f832422835f5a937e28ff043353a9cec00b51d0e3a21d5890e43518062208d571958231c8886728043208c971d78eca362f3d"
+		"EncryptedSignature"		"21b5cbedfd8157ab68e7d30480026bd6156072a449801c9e9091f9baa5849697b8bfcd52bb082e3a84d9b0e2329e2158cfe526b0d10e6765608827d9ed052518eeae7f5d956d3c9350e4450c636bf42ff38e9119335f8d458f3a2140f5ac6c662e0fbf67cfb5fb23852a5e1b2347ca58aaf5d31e2a19f37b9bb1bc23dc041c021a1e86f675cbc74b61ae7f4abc2e68675035ef59ff80725bcb1a8db6447cae4098986d9ecdecbd8e8388b5af7d00f0bfdf7bd65cc4078409fee530ec54708964c5903ac2a259bc04ab9245bc65063622825627a0845ccb2bc39f1b9c5bc65cd8d815b3927f1f832422835f5a937e28ff043353a9cec00b51d0e3a21d5890e435"
 	}
 	"apptickets"
 	{
-		"7"		"3200000004000000022c7511010010010700000075fd8cc0bc6ea8c00000000092ec9c68129cb868010000000000000000001f7e1085bf8805c333133126c713284b044c18df449b3b66500a32861e5c12422c553df3a8f882d1f0acb616e5ad51c568259074e1281620778af3bdbd2167d8fbb534b5746a9ab8a2026ec6b65dd8571fdf6762ad6ec466e12cd46e05f50b87446bcf9c0d0d2ac2422010efae41e44496ae85658c8ffe24f1931f6cc1c4ff1e"
+		"7"		"3200000004000000022c7511010010010700000075fd8cc00200050a00000000ff239f687fd3ba68010000000000000000004adb8d27e6018b214483582bebc85c835907a66e0b7db2b3ec4da1076c5743c5ac42e175f3096e087e0767cf243049d0acc115700900146c8fc91c3648a90b06d503b2c96a56bbc3218c8de7f183e09ef6c422ed7f8a434343e872aeef26182b46940057c364da98dde327ebd16fc68faaad197ea3c9936e29644d315c382d7d"
 		"440"		"3800000004000000022c751101001001b801000075fd8cc0bc6ea8c00000000055610a68d510266801005a2100000100cb01000000000000bdc3477293978f33aa3a75bbcfe41e77b9fd709b707f6e7d123bc64282aa11a41c9dd26759f346b7ea2f8f4fb9dec9a92abe25240b133f012c02960917752795ef8c43c95c49891a2c1396f74665d308d5e6bda1f99d12dc4eb37f1d9b152cc8db481f8d101f0d5c904542b053c92aace649edf951dc49d4ff2be61ed90bb872"
-		"730"		"5000000004000000022c751101001001da02000075fd8cc0bc6ea8c00000000052e99c68d298b86801000dd300000500e40200000000b4880900000028c92200000029c92200000066df280000000000d499e0ed651961fdb9f1853aacfee2db7b610302391ad5dba0a6cee045671d415cb00ca464f28e51df4ae3639267da07f826701b5355c14db6ebc354d0c633ec18ec8c51a99ac544cc50f2dc2c2eef2ebb91eec0d3e5e9ba670363634f64fa1d6fd07d62be2215f08867653edc0108b3bbf8d1e910c3e2d22077f4a2aa9e3df3"
+		"730"		"5000000004000000022c751101001001da02000075fd8cc00200050a00000000054b9e6885fab96801000dd300000500e40200000000b4880900000028c92200000029c92200000066df280000000000286aa1563f7ca9df07f5abea9cf499bfa5cc830ef44b279021c477a5b208aeff5e9b20e53d4dd30f6543111622ed565e72a7ea4fbbcaf64d3da2d20b3219ab6748f53dfa58116981d358879b85a8588724d638707c9ee5de4210a59b7b7d8fe7175bf1e5063ff1ef61b9e8f6270b53dc64629c83015025405a7d8f10a993660b"
 		"2279720"		"3200000004000000022c75110100100128c9220075fd8cc0bc6ea8c00000000052e99c68d298b86801000dd300000000000036443148191aef07161034fd71aed97c558f01f1928a271478128a476ce0227c47890c5549b5c15c2ae06a8864df246a4f71f40304c61e5591be248f5bb3338611952d5eb95af931e893782c934c6b9ad58b0b4353ffe382f583594ccd0de7ba4b5396d20517410c659f5b91818987598cedc1c705c8927926ffcc33874d43a4"
 		"2279721"		"3200000004000000022c75110100100129c9220075fd8cc0bc6ea8c00000000052e99c68d298b86801000dd300000000000085387e81a6a51ab4fefc18313df7057924e99fd9df5f4631487200c6adc8433e6698491f78dca32f7faf202db2f24e971d1b92267730f12deecbdd24c5ead2d34638170b4c3a6e5cfed9da85de3d67e812ebbf6ede2d6312894b98755368d2e3e97ff6e7b4c4e12a3f57885ade872e49dbf1fad195c37cd2f6b3dcea1189105e"
 		"228980"		"3200000004000000022c751101001001747e030075fd8cc0bc6ea8c00000000054e99c68d498b86801000000000000000000c61cd9f9ac493747b4d123a469ddfdd0969dfcd7b407b09f264c3244471241a1158addc46a14f1a7f6b1ae1d8623d123e617b2564065b068f847e85306ddbf7f309f7ef93932a77fda518823664f6001437b5e38cb056f0bce39bccb0b84ec56eda8fc58c3ec4811973d6c7280a3ed944922f68dc164c9157967dff28f9e0f5f"
@@ -4615,7 +4626,7 @@
 	}
 	"CloudKey"		"010000008fbb5e39a37d23e04db1224f34958a77af48369d9dcad132cbc1191e372d060573e18a8b"
 	"CloudKeyCRC"		"-627012995"
-	"AppInfoChangeNumber"		"30576330"
+	"AppInfoChangeNumber"		"30611190"
 	"CloudManager"
 	{
 		"HintAppsToPreload"		"241100"
@@ -4637,7 +4648,7 @@
 		"keyboard_initial_location_overlay"		"\"center-bottom\""
 		"CTextFilterStore_TextFilterPreferences_1514009945"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":true}"
 		"CTextFilterStore_TextFilterWords_1514009945"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
-		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":570,\"rgAccountIDs\":[182497721,177809996,493428742],\"totalFriends\":3},{\"appid\":1941540,\"rgAccountIDs\":[118828912,1131001453],\"totalFriends\":2},{\"appid\":1238840,\"rgAccountIDs\":[1131001453],\"totalFriends\":1},{\"appid\":3081410,\"rgAccountIDs\":[1457574906,162889130,1105673197,493428742,1081495947,897153223,882670381,1131001453],\"totalFriends\":12},{\"appid\":534380,\"rgAccountIDs\":[363011282],\"totalFriends\":1},{\"appid\":570940,\"rgAccountIDs\":[1112077166],\"totalFriends\":1},{\"appid\":1080750,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":292030,\"rgAccountIDs\":[1112077166],\"totalFriends\":1},{\"appid\":2507950,\"rgAccountIDs\":[885726538,1106693541],\"totalFriends\":2},{\"appid\":1433140,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":452420,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":1172470,\"rgAccountIDs\":[836270214,962795144],\"totalFriends\":2},{\"appid\":1620040,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":592480,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":1771300,\"rgAccountIDs\":[162889130],\"totalFriends\":1},{\"appid\":254940,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":271590,\"rgAccountIDs\":[105694352,885726538],\"totalFriends\":2},{\"appid\":741250,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":325320,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":795510,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":736570,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":374320,\"rgAccountIDs\":[1112077166],\"totalFriends\":1},{\"appid\":520440,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":291550,\"rgAccountIDs\":[897153223,259465883],\"totalFriends\":2},{\"appid\":1234430,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":304750,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":368600,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":524850,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":321160,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":264000,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":585550,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":710920,\"rgAccountIDs\":[162889130],\"totalFriends\":1},{\"appid\":553850,\"rgAccountIDs\":[1081495947,118828912],\"totalFriends\":2},{\"appid\":3630170,\"rgAccountIDs\":[379826655],\"totalFriends\":1},{\"appid\":343440,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":2383990,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":232090,\"rgAccountIDs\":[1107730218],\"totalFriends\":1},{\"appid\":446040,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":700330,\"rgAccountIDs\":[379826655],\"totalFriends\":1},{\"appid\":230410,\"rgAccountIDs\":[836270214,9693973,1081495947],\"totalFriends\":3},{\"appid\":1693980,\"rgAccountIDs\":[134821956],\"totalFriends\":1},{\"appid\":2537590,\"rgAccountIDs\":[1039347168],\"totalFriends\":1},{\"appid\":1359090,\"rgAccountIDs\":[1107730218],\"totalFriends\":1},{\"appid\":1119730,\"rgAccountIDs\":[364586495],\"totalFriends\":1},{\"appid\":2358720,\"rgAccountIDs\":[205220801,897153223],\"totalFriends\":2},{\"appid\":2767030,\"rgAccountIDs\":[1166297824,1457574906,897153223],\"totalFriends\":3},{\"appid\":438100,\"rgAccountIDs\":[1674296686],\"totalFriends\":1},{\"appid\":395170,\"rgAccountIDs\":[1581398357],\"totalFriends\":1},{\"appid\":3595270,\"rgAccountIDs\":[162889130],\"totalFriends\":1},{\"appid\":379720,\"rgAccountIDs\":[259465883],\"totalFriends\":1}],\"lastFetchTimeMS\":1755113813347}"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":570,\"rgAccountIDs\":[182497721,177809996,493428742],\"totalFriends\":3},{\"appid\":730,\"rgAccountIDs\":[1525683323,172151186,493428742,1081495947,1767447095,374167981,1513224761,198890941],\"totalFriends\":134},{\"appid\":1238840,\"rgAccountIDs\":[1131001453],\"totalFriends\":1},{\"appid\":2507950,\"rgAccountIDs\":[885726538,1106693541],\"totalFriends\":2},{\"appid\":2383990,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":1172470,\"rgAccountIDs\":[836270214,962795144],\"totalFriends\":2},{\"appid\":1941540,\"rgAccountIDs\":[118828912,1131001453],\"totalFriends\":2},{\"appid\":3081410,\"rgAccountIDs\":[162889130,1457574906,882670381,1105673197,493428742,1081495947,897153223,1131001453],\"totalFriends\":12},{\"appid\":271590,\"rgAccountIDs\":[105694352,885726538],\"totalFriends\":2},{\"appid\":230410,\"rgAccountIDs\":[836270214,1081495947,9693973],\"totalFriends\":3},{\"appid\":1433140,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":291550,\"rgAccountIDs\":[897153223],\"totalFriends\":1},{\"appid\":452420,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":534380,\"rgAccountIDs\":[363011282],\"totalFriends\":1},{\"appid\":1620040,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":1771300,\"rgAccountIDs\":[162889130],\"totalFriends\":1},{\"appid\":592480,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":254940,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":741250,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":325320,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":736570,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":520440,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":1234430,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":304750,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":368600,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":524850,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":264000,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":321160,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":2537590,\"rgAccountIDs\":[1039347168],\"totalFriends\":1},{\"appid\":585550,\"rgAccountIDs\":[1151748949],\"totalFriends\":1},{\"appid\":710920,\"rgAccountIDs\":[162889130],\"totalFriends\":1},{\"appid\":3630170,\"rgAccountIDs\":[379826655],\"totalFriends\":1},{\"appid\":1693980,\"rgAccountIDs\":[134821956],\"totalFriends\":1},{\"appid\":227300,\"rgAccountIDs\":[1525683323,364586495],\"totalFriends\":2},{\"appid\":2767030,\"rgAccountIDs\":[1166297824,1457574906,897153223],\"totalFriends\":3},{\"appid\":480,\"rgAccountIDs\":[897153223,1457574906,364586495,1517670287],\"totalFriends\":4},{\"appid\":714010,\"rgAccountIDs\":[897153223,1767447095,1674296686,1105673197],\"totalFriends\":4},{\"appid\":1359090,\"rgAccountIDs\":[1107730218],\"totalFriends\":1},{\"appid\":1119730,\"rgAccountIDs\":[364586495],\"totalFriends\":1},{\"appid\":1091500,\"rgAccountIDs\":[1112077166],\"totalFriends\":1},{\"appid\":553850,\"rgAccountIDs\":[1081495947,118828912],\"totalFriends\":2},{\"appid\":2358720,\"rgAccountIDs\":[205220801,897153223],\"totalFriends\":2},{\"appid\":945360,\"rgAccountIDs\":[837402218],\"totalFriends\":1},{\"appid\":3595270,\"rgAccountIDs\":[162889130],\"totalFriends\":1},{\"appid\":438100,\"rgAccountIDs\":[1674296686],\"totalFriends\":1},{\"appid\":395170,\"rgAccountIDs\":[1581398357],\"totalFriends\":1},{\"appid\":683320,\"rgAccountIDs\":[1510445772],\"totalFriends\":1},{\"appid\":379720,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":1293830,\"rgAccountIDs\":[417940508],\"totalFriends\":1},{\"appid\":111300,\"rgAccountIDs\":[1151748949],\"totalFriends\":1}],\"lastFetchTimeMS\":1755203726085}"
 		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1738785181,\"appids\":[1172470,291550]},\"rgIgnoredApps\":[]}"
 		"CTextFilterStore_strBannedPattern_1514009945"		"KDEpXGIo77u/KGFwZXxiYXR8YnVsbD98YnV0dHxkaXB8ZG9nfGR1bWJ8ZWJvfGhvbHl8aG9yc2V8amFja3xwZWRvfHBpZ3x1YmkpXFcqc2goaXR8dGkpcz98ZFtpbF0rKGNrfGtjKVxXKihhc3N8YmFnfGJyZWF0aHxlYXR8ZmFjZXxmbGlwfGhlYWR8aG9sZXxsZXNzfHN1Y2t8d2VlZClcdyp8ZltjaGpdPyhhfGF1fGF3fGV8byt8dXx1eSlbY2hdKmsoZT9kfGU/cnM/fFtlaV0/bitnP3x0KXxtW2FvdV0oZCt8dCt8dGh8aHR8eikoYXxlfGVyfGlyfHVyKShjfGYpYz9bYW91XWM/a1x3KnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rKGU/ZHxlP3J8W2VpXT9uK2c/KXxcdypmW3Z1XStoKmMrW2hqdmtdKihlP2R8ZT9yfFtlaV0/bitnP3x0KXxiK2krYSp0K2MraCsoZStkfGUqcj9bc3pdK3xbZWldP24rZz98eSl8XHcqZlt2dV0rYz9beGtxXSsoZT9kfGU/cnxbZWldP24rZz98dCl8cChvbyt8dSspcysoYSt5K3xlK3xlaHxleXxpK3xpZXx5KylzKnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rfFx3KmZbdnVdK2gqcShlP2R8ZT9yfFtlaV0/bitnP3x0KXxmW2Noal0/KGF8YXV8YXd8ZXxvK3x1fHV5KVtjaF0qa3xmW2NrXSsoZT9kfGU/cnxbZWldP24rZz98dCl8ZnXzoICh86CAoWNrafOggKHzoIChbmd8ZHVtYihmfHBoKVt2dV0rYz9beGtxXXxjKG9jP3xhdylrXFcqc3VjP2tcdyp8ZFtpbF0rKGNrfGtjKShlZHxpbmcpfHBoW3Z1XStoKmMrW2hqdmtdKlx3Knxzb25cVypvZlxXKmFcVypiaXRjaHzQtNC+0LvQsdC+0LXQsdC40LfQvHxcdyp3aG8rcmUoZWR8aW5nfHMpfGMob3xhaHxhdyljP2soc3xlZCl8cytoK1tpbHldK3QrW2Vyc3ldKnxhK3NzK1xXKnc/aG9sZT9cdyp8cGhbdnVdK2M/W3hrcV0rXHcqfNCz0L7QstC90L7QtdC00L7QsnzQtNC+0LvQsdCw0LXQsdC+0LJ80LXQsdC70LDQvdGB0LrQsNGPfNC10LHQu9Cw0L3RgdC60LjQuXzQt9Cw0LXQsdGR0YjRjNGB0Y980LfQsNGF0YPRj9GH0LjQu9C4fNC/0LjQtNCw0YDQsNGB0L7QsnzQv9C40LTQsNGA0YHQutC40Ll80YHRitC10LHQsNGC0YzRgdGPfNGD0LXQsdCw0L3RgdC60LjQuXzRg9C10LHQuNGJ0YzQvdC+0LV8Zlt2dV0rYz9beGtxXStcdyp8YnVsbCtzaCtbaWx5XSt0K3xnb2RcVypkYW1uP1xXKml0fNCw0YXRg9C10L3QvdCw0Y980LDRhdGD0LXQvdC90YPRjnzQsNGF0YPQtdC90L3Ri9C5fNCy0YvQtdCx0LDQvdC+0LV80LXQsdCw0L3QvdC+0LzRg3zQtdCx0LDQvdGD0YLRi9C1fNC10LHQu9Cw0L3QsNC80Lh80L/QuNC00LDRgNCw0YHRi3zRg9GR0LHQuNGJ0L3QsNGPfNGD0ZHQsdC40YnQvdGL0Ll8Z29kXFcqZGFtbj9cdyp80LLRitC10LHQsNC70Lh80LLRitC10LHQsNGC0Yx80LXQsdCw0L3QvdCw0Y980LXQsdCw0L3QvdC+0LV80LXQsdCw0L3QvdGL0YV80LXQsdCw0L3QvtCz0L580LXQsdCw0L3RjNC60Lh80LXQsdC+0L3QvdC+0LV80LfQsNC10LHQsNC70LB80LfQsNC10LHQsNC70L580L/QvtC10LHQtdC90Yx80YXRg9GR0LLQvtCz0L58YStzcytcVypmdVx3KnxjKG98YWh8YXcpYz9rfGRbaWxdKyhja3xrYyl8YitpK2EqdCtjK2grfGJ1dHRcVypmdVx3KnxjdW1tKGVyfGluZyl8Zlt2dV0raCpjXHcqfGZbdnVdK2gqcVx3KnxzaCtpK1thZV0rdCt80LDRhdGD0LXQu9C4fNC10LHQsNC90LDRj3zQtdCx0LDQvdC+0LV80LXQsdCw0L3QvtC5fNC10LHQsNC90YPRjnzQtdCx0LDQvdGL0LV80LXQsdCw0L3Ri9C5fNC10LHQsNC90YvQvHzQtdCx0LDQvdGL0YV80LXQsdGD0YfQuNC5fNC/0LjQt9C00LXQtnzQv9C40LfQtNC10YZ80YHRgNCw0L3QsNGPfNGD0ZHQsdC40YnQsHzRg9GR0LHQuNGJ0LV80YXRg9C10YHQvtGBfNGF0YPQtdGC0L7QuXzRhdGD0LnQvdGR0Ll80YXRg9GR0LLQsNGPfNGF0YPRkdCy0YvQuXzkvaDlpojmrbvkuoZ85aaI55qE5Liq6YC8fOaIkeWOu+S9oOeahHzmiJHmmK/lgrvpgLx8Yyt1K24rdCtcdyp8ZCtpK2MraytzKnxmdeKAjmNraW5nfNCx0LvRj9C00Yx80LHQu9GP0YLRjHzQtNC+0YXRg9GPfNC00YDQvtGH0Lh80LXQsdCw0LvQvnzQtdCx0LDRgtGMfNC9NNC10LE00Lt80L3QsNGF0YPQuXzQvdCw0YXRg9GPfNC90LXRhdGD0Ll80L3QuNGF0YPRj3zQv9C40LfQtNC1fNC/0LjQt9C00YN80L/QvtGF0YPQuXzRg9C10LHRkdGCfNGF0YPQtdGC0LB80YXRg9C10YLRg3zRhdGD0LnQvdC4fNGF0YPQudC90Y580YXRg9C50L3Rj3zRiNC70Y7RhdC4fNGR0LHQsNC90Yt8YStzaG9sZXM/fHNoK2UraSt0K3zmk43kvaDlpoh85pON5L2g5aa5fOiCj+S9oOWmiHzQsNGF0YPQtXzQtdCx0LDQu3zQtdCx0YPRgnzRgdGD0LrQsHzRhdGD0Y/QvHzRiNC70Y7RhXxGXC5VXC5DXC5LfGNob2Rlcz98Y3Vtc2hvdHxmdWNraW5nfGZ14oCOY2t8c2hpdFx3KnxzaHRwb3N0fHdobytyZT98Y3VtYmFnfGplYmFuZXx0d2F0cz980LHQu9GPfNC10LHRg3zRhdGD0Lh80YXRg9C5fNGF0YPRj3zlgrvlsYR85YK76YC8fOaTjeatu3zoh63pgLx8Y3Vtcz98ZGFmdXF8ZGnRgWt8c2ggaXR8Y29xK3xob3JlfGtvY2t8bm1zbHxzaGF0fGRpa3xmY2t8a3lzfFx3KmYrdStjK2srXHcqfFx3KmbRhtGB0Lpcdyp8XHcqc2jRlnR0eVx3KnxcdypmX3VjX2tcdyp8XHcqcHVzc3lcdyp877u/bisoW2VoaXldK3xheXxleXxpb3xbaWxdKylbYmdxJF0raD8oYSt8YWVyfGEraCt8YStyK3xlK3xlYXxlb2F8ZStyK3xpZXxpZXJ8bGV0fGxpdHxvfG9yfHIrfHV8dWh8dWhyfHUrcit8d2FyZHx5KylzKnxmW2FlXXk/Zytbb2VpdV0rdCtzP3zQtNCw0YPQvdGB0LrQsNGPfNC/0LjQtNC+0YDQsNGB0Yt8Y2hpbmdcVypjaG9uZ3M/fG7zoICh86CAoWlnZ2Vyc3xyZSt0K2E/cltkdF0rcz98dG93ZWxcVypoZWFkcz980LzQvtGB0LrQsNC70Yx80L/QuNC00L7RgNC60LB8cGFjP2soaXxpZXx5KXx0aW5nXFcqdG9uZ3M/fHRyYW5uKGllfHkpcz98d2hpdGVcVyp0cmFzaHxuaTpnZ1x3Kjpcdyp8Y2hpbihjfGspcz98a2FsdGFrbGFybGF8a2FsdGFrbGFybGF8bitpK1tncV0rcz98eWFtXFcqeWFtcz98XHcqbmlnZ2FzP3xjaGluYW1hbnM/fHBvbGFja2U/cz98dHJhbm55Y29yZXzQutCw0YbQsNC/fNGA0YPRgdC90Y980YXQvtGF0LvRi3zRhdC+0YXQvtC7fG5lZWtlcmlzP3xuaWdmaGVycz98cmVkc2tpbnM/fGJlYW5lcnM/fGNvb2xpZXM/fGN6YXJudWNofGYrYStnK3MqfGZlbmlhbnM/fGdyaW5nb3M/fG5ld2ZhZ3M/fG5pIGdnIGVyfG5pZ2dhXHcqfG5pZ2dsZXM/fG5pZ25vZ3M/fHJ1cytraXM/fHdpZ2dlcnM/fM+cYWdn0L50fGd5cHNpZXN8aW5qdW5zP3xqaWdnYXM/fG5pa2thcz98d2lnZ2FzP3zQuGlnZ2VyfFx3KmZhZ3xiZWFuZXJ8Y29vbnM/fGR5a2VzP3xmYTY2b3R8ZmFndHM/fGdvb2tzP3xneXBvcz98aG9tb3M/fGtpa2VzP3xrb2tob2x8bW9za2FsfHJlZ2dpbnxzcGljcz98eXduYmF3fOm7kemsvHxhYm9zP3xmZ3RzP3xm0LBnc3xneXBzeXxqYXBzP3x0cm9vbnx3b3BzP3xmYWd6fGbQsGd8ZkBnfFx3Kk7zoICh86CAoUlHR0XzoICh86CAoVJcdyp8XHcq0YHQstC40L3QvtGB0L7QsdCw0Lpcdyp8XHcqybTJqsmiyaLhtIfKgFx3Knxcdypu0ZZnZ9C1clx3KnxcdypOw41HR0VSXHcqfFx3Km5cXFx8Z2dlclx3KnxcdypuaWdn0LVyXHcqfFx3KkY0R0cwVFx3KnxcdypOMUdHM1Jcdyp8XHcqbmlnZ2VyXHcqfFx3KnRyYW5ueVx3KnxcdypuaWdnNFx3KnxcdypuaWdnelx3KilcYg=="
 		"CTextFilterStore_strCleanPattern_1514009945"		"KDEpXihcYihmYWsoZWR8ZXJzP3xpbmcpfGtvbXBldGVuenRlYW185rS+6YCB5ZGYfHBpbmVncm92ZXxuXC5lXC5pZ1wuZVwufGZ1a3VzaGltYXxzbmlnZ2VyfG5pZSBnZWV8ZnVrdW9rYXxmdWNoc2lhfGZ1Y2hpYW58Y29ja1wubGl8cGh1a2V0fGZ1eGl1c3xmdWN1cm98bmllZ298bmllYm98bmVpZ2V8bmVnZ3l8bmViYnl8ZnV4aXN8Y3dmYWd8cHViZ3xuaWJ5fG5lYnV8bmVib3xmdWt1fGZ1a2l8ZmFrdHxnMjR8ZmNyfFx3KmZ2Y2h2b1x3KilcYikk"
@@ -4646,19 +4657,19 @@
 		"ChatStorePopupState_1514009945"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
 		"GetEquippedProfileItemsForUser76561199474275673"		"{\"profile_background\":{\"communityitemid\":\"25333943305\",\"image_large\":\"items/2402580/352278a94d0dbb04e34349b92bf722ccd8941acb.jpg\",\"name\":\"Puzzle Fest 2023\",\"item_title\":\"Puzzle Fest 2023\",\"item_description\":\"\",\"appid\":2402580,\"item_type\":1,\"item_class\":3,\"movie_webm\":\"items/2402580/511643f9060fd3da56f77f1a8e5232d4f3612e6b.webm\",\"movie_mp4\":\"items/2402580/13009ab52e445216d25f1ad2474b99d7802237b1.mp4\",\"movie_webm_small\":\"items/2402580/0b30e9d65583c55be9a3c4fe967a61307ca21ece.webm\",\"movie_mp4_small\":\"items/2402580/872b00d14af0b84509c48e228dd92a0f71c5e56d.mp4\",\"equipped_flags\":1,\"profile_colors\":[]},\"mini_profile_background\":{\"communityitemid\":\"25333943304\",\"image_large\":\"items/2402580/3453401a4b97f70ff2e2052c625dfd154e670e21.jpg\",\"name\":\"Puzzle Fest 2023\",\"item_title\":\"Puzzle Fest 2023\",\"item_description\":\"\",\"appid\":2402580,\"item_type\":2,\"item_class\":13,\"movie_webm\":\"items/2402580/8c9752e39a58359e1758aa96f6b239f1c7ecc932.webm\",\"movie_mp4\":\"items/2402580/584d432dc289380b69ddc6d72ceb35e7c374e655.mp4\",\"profile_colors\":[]},\"avatar_frame\":{\"communityitemid\":\"25333943303\",\"image_small\":\"items/2402580/8cf5f96ce774d57ce0602c02cb79cebae50d4117.png\",\"image_large\":\"items/2402580/b9baea85af340236e13f88f4c9b4241954b25b9a.png\",\"name\":\"Puzzle Fest 2023\",\"item_title\":\"Puzzle Fest 2023\",\"item_description\":\"\",\"appid\":2402580,\"item_type\":4,\"item_class\":14,\"profile_colors\":[]},\"animated_avatar\":{\"profile_colors\":[]},\"profile_modifier\":{\"communityitemid\":\"25333943301\",\"image_small\":\"items/2402580/8e7ffb5a2c08378b77190f4907c6c81236aa9de8.jpg\",\"image_large\":\"items/2402580/c28cfd2af2a1e7f116a23e2733327202290ae75f.jpg\",\"name\":\"Puzzle Fest 2023\",\"item_title\":\"Puzzle Fest 2023\",\"item_description\":\"\",\"appid\":2402580,\"item_type\":5,\"item_class\":8,\"profile_colors\":[{\"style_name\":\"backgroundgradient_left\",\"color\":\"rgba(87, 28, 30, .5)\"},{\"style_name\":\"backgroundgradient_right\",\"color\":\"rgba(45, 16, 18, .5)\"},{\"style_name\":\"backgroundgradient_center\",\"color\":\"rgba(45, 16, 18, .35)\"},{\"style_name\":\"showcasegradient_left\",\"color\":\"rgba(231, 144, 51, 1)\"},{\"style_name\":\"showcasegradient_right\",\"color\":\"rgba(170, 82, 42, 1)\"}]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
 		"SteamVoiceSettings_292891650"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"a635495cfd1d25db8d3f4f47eed425bbd7b14a6b5e6d0561747c55ebaed36ca2\",\"selectedOutput\":\"9292266f91143610fc29b0b5181fc350b75db8700b2800703540248b05e9f9a0\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true,\"useSteamAudioSpatialization\":false}"
-		"CTextFilterStore_TextFilterPreferences_292891650"		"{\"bIgnoreFriends\":1,\"eTextFilterSetting\":3}"
+		"CTextFilterStore_TextFilterPreferences_292891650"		"{\"bIgnoreFriends\":true,\"eTextFilterSetting\":3}"
 		"CTextFilterStore_TextFilterWords_292891650"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
 		"CTextFilterStore_strBannedPattern_292891650"		"KDEp"
-		"CTextFilterStore_strCleanPattern_292891650"		"KDEpXihcYihzdGFyZG9jayBjb21tdW5pdHkgYXNzaXN0YW50fGhvbW8gc2FwaWVucyBzYXBpZW5zfHRoZSBzZXh5IGNoaW5hbWFufGZhayhlZHxlcnM/fGluZyl8a29tcGV0ZW56dGVhbXzmtL7pgIHlkZh8cGluZWdyb3ZlfG5cLmVcLmlnXC5lXC58ZnVrdXNoaW1hfHNuaWdnZXJ8bmllIGdlZXxmdWt1b2thfGZ1Y2hzaWF8ZnVjaGlhbnxjb2NrXC5saXxwaHVrZXR8bmlnZ2xlfGZ1eGl1c3xmdWN1cm98bmllZ298bmllYm98bmllYmF8bmVpZ2V8bmVnZ3l8bmViYnl8ZnV4aXN8Y3dmYWd8cHViZ3xuaWJ5fG5lYnV8bmVib3xmdWt1fGZ1a2l8ZmFrdHxnMjR8ZmNyfFx3KmZ2Y2h2b1x3KilcYikk"
+		"CTextFilterStore_strCleanPattern_292891650"		"KDEpXihcYihzdGFyZG9jayBjb21tdW5pdHkgYXNzaXN0YW50fGhvbW8gc2FwaWVucyBzYXBpZW5zfHRoZSBzZXh5IGNoaW5hbWFufGZhayhlZHxlcnM/fGluZyl8a29tcGV0ZW56dGVhbXzmtL7pgIHlkZh8cGluZWdyb3ZlfG5cLmVcLmlnXC5lXC58ZnVrdXNoaW1hfHNuaWdnZXJ8bmllIGdlZXxmdWt1b2thfGZ1Y2hzaWF8ZnVjaGlhbnxjb2NrXC5saXxwaHVrZXR8bmlnZ2xlfGZ1eGl1c3xmdWN1cm98bmllZ298bmllYm98bmllYmF8bmVpZ2V8bmVnZ3l8bmViYnl8ZnV4aXN8Y3dmYWd8cHViZ3xuaWJ5fG5lYnV8bmVib3xmdWt1fGZ1a2l8ZmFrdHxnMjR8ZmNyfFx3KmZ2Y2h2b1x3KnN0YXJkb2NrIGNvbW11bml0eSBhc3Npc3RhbnR8aG9tbyBzYXBpZW5zIHNhcGllbnN8dGhlIHNleHkgY2hpbmFtYW58ZmFrKGVkfGVycz98aW5nKXxrb21wZXRlbnp0ZWFtfOa0vumAgeWRmHxwaW5lZ3JvdmV8blwuZVwuaWdcLmVcLnxmdWt1c2hpbWF8c25pZ2dlcnxuaWUgZ2VlfGZ1a3Vva2F8ZnVjaHNpYXxmdWNoaWFufGNvY2tcLmxpfHBodWtldHxuaWdnbGV8ZnV4aXVzfGZ1Y3Vyb3xuaWVnb3xuaWVib3xuaWViYXxuZWlnZXxuZWdneXxuZWJieXxmdXhpc3xjd2ZhZ3xwdWJnfG5pYnl8bmVidXxuZWJvfGZ1a3V8ZnVraXxmYWt0fGcyNHxmY3J8XHcqZnZjaHZvXHcqc3RhcmRvY2sgY29tbXVuaXR5IGFzc2lzdGFudHxob21vIHNhcGllbnMgc2FwaWVuc3x0aGUgc2V4eSBjaGluYW1hbnxmYWsoZWR8ZXJzP3xpbmcpfGtvbXBldGVuenRlYW185rS+6YCB5ZGYfHBpbmVncm92ZXxuXC5lXC5pZ1wuZVwufGZ1a3VzaGltYXxzbmlnZ2VyfG5pZSBnZWV8ZnVrdW9rYXxmdWNoc2lhfGZ1Y2hpYW58Y29ja1wubGl8cGh1a2V0fG5pZ2dsZXxmdXhpdXN8ZnVjdXJvfG5pZWdvfG5pZWJvfG5pZWJhfG5laWdlfG5lZ2d5fG5lYmJ5fGZ1eGlzfGN3ZmFnfHB1Ymd8bmlieXxuZWJ1fG5lYm98ZnVrdXxmdWtpfGZha3R8ZzI0fGZjcnxcdypmdmNodm9cdypzdGFyZG9jayBjb21tdW5pdHkgYXNzaXN0YW50fGhvbW8gc2FwaWVucyBzYXBpZW5zfHRoZSBzZXh5IGNoaW5hbWFufGZhayhlZHxlcnM/fGluZyl8a29tcGV0ZW56dGVhbXzmtL7pgIHlkZh8cGluZWdyb3ZlfG5cLmVcLmlnXC5lXC58ZnVrdXNoaW1hfHNuaWdnZXJ8bmllIGdlZXxmdWt1b2thfGZ1Y2hzaWF8ZnVjaGlhbnxjb2NrXC5saXxwaHVrZXR8bmlnZ2xlfGZ1eGl1c3xmdWN1cm98bmllZ298bmllYm98bmllYmF8bmVpZ2V8bmVnZ3l8bmViYnl8ZnV4aXN8Y3dmYWd8cHViZ3xuaWJ5fG5lYnV8bmVib3xmdWt1fGZ1a2l8ZmFrdHxnMjR8ZmNyfFx3KmZ2Y2h2b1x3KilcYikk"
 		"friendstore_playercache"		"[{\"steamid\":\"76561198340092383\",\"persona_name\":\"Shahir Zaman\",\"avatar_hash\":\"c1a3ac623839219c8d4827e6d2f35fe8dee57a9d\"},{\"steamid\":\"76561198253157378\",\"persona_name\":\"Smokianlord\",\"avatar_hash\":\"543bb32f9249e6738288c0d3ac6987ee25983c41\"}]"
 		"FriendStoreLocalPrefs_292891650"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
 		"UIDisplayPrefs_292891650"		"{\"nChatRoomListHeightPx\":224,\"bChatRoomListCollapsed\":true,\"bDontShowVoiceAlert\":false,\"nFriendsListSingleWindowWidthPx\":300,\"bFavoritesHintDismissed\":true,\"bRemotePlayLinkHintDismissed\":false,\"nChangeLogDismissed\":0}"
 		"ChatStorePopupState_292891650"		"{\"window_restore_details\":\"1&x=600&y=205&w=740&h=650\",\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
-		"GetEquippedProfileItemsForUser76561198253157378"		"{\"profile_background\":{\"communityitemid\":\"32507676475\",\"image_large\":\"items/2181610/a130b88709ebf915ab291f12d81697973e000292.jpg\",\"name\":\"Circle of Hell\",\"item_title\":\"Circle of Hell\",\"item_description\":\"\",\"appid\":2181610,\"item_type\":36,\"item_class\":3,\"movie_webm\":\"items/2181610/47cc5c2dc17508aa503683de5f3648b63e8b56dc.webm\",\"movie_mp4\":\"items/2181610/41a082d421170d8080aa9b03435fc6435cde7fda.mp4\",\"movie_webm_small\":\"items/2181610/25272f856fd88505195389f4da601e61e9598d28.webm\",\"movie_mp4_small\":\"items/2181610/ecb042e738c48c684000ee38a11a3ba0f29f4598.mp4\",\"profile_colors\":[]},\"mini_profile_background\":{\"communityitemid\":\"17083759185\",\"image_large\":\"items/1098340/d53102e2dde3f5b7d419c2a52e63ed51d3d4a38b.jpg\",\"name\":\"UNIVERSE\",\"item_title\":\"UNIVERSE\",\"item_description\":\"\",\"appid\":1098340,\"item_type\":34,\"item_class\":13,\"movie_webm\":\"items/1098340/b0773e1a9f8fbf35fce4e6e5bb3d337ad88adca5.webm\",\"movie_mp4\":\"items/1098340/c5033fa46767025ffeed805d2bafb949555cb69a.mp4\",\"profile_colors\":[]},\"avatar_frame\":{\"communityitemid\":\"32507676367\",\"image_small\":\"items/1239300/083c19cc935001ee0508aff3b948da62b6a093f6.png\",\"image_large\":\"items/1239300/a9ca31fe951b5ae5d265f5ba97539aced1286cfa.png\",\"name\":\"Damned\",\"item_title\":\"Damned\",\"item_description\":\"\",\"appid\":1239300,\"item_type\":24,\"item_class\":14,\"profile_colors\":[]},\"animated_avatar\":{\"profile_colors\":[]},\"profile_modifier\":{\"profile_colors\":[]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
-		"OverlaySavedDataV2_730_windows"		"{\"version\":2,\"data\":[[\"Browser\",1],[\"FriendsList\",1]]}"
-		"OverlaySavedDataV2_730_webrequests"		"{\"version\":1,\"data\":{\"activeWebPageRequestID\":2,\"rgRequests\":[{\"requestid\":2,\"strURL\":\"https://steamcommunity.com/profiles/76561199571894962/\",\"strLastURL\":\"https://steamcommunity.com/profiles/76561199571894962/\",\"strTitle\":\"Steam Community :: ABOOD\"}]}}"
+		"GetEquippedProfileItemsForUser76561198253157378"		"{\"profile_background\":{\"communityitemid\":\"35504199198\",\"image_large\":\"items/730/4abc0f064d8ff94fa10570b1e5cb231331bb4049.jpg\",\"name\":\"Glitch Lines\",\"item_title\":\"Glitch Lines\",\"item_description\":\"\",\"appid\":730,\"item_type\":36,\"item_class\":3,\"movie_webm\":\"items/730/28280d425d20a4d8cd9cfeff3389c234968ca301.webm\",\"movie_mp4\":\"items/730/2c007a6c2e9d7f11023bdf9dd31f6e4b048ee30d.mp4\",\"movie_webm_small\":\"items/730/939e2dc6d293f75c30a7e4a40dd4394714cca0f4.webm\",\"movie_mp4_small\":\"items/730/86384ce2b55e157dc24ccc497cfd729c97b074a8.mp4\",\"equipped_flags\":1,\"profile_colors\":[]},\"mini_profile_background\":{\"communityitemid\":\"35504199199\",\"image_large\":\"items/730/c149cfdcf31f105f653c18c9871d0079e4f6ba0c.jpg\",\"name\":\"Glitch Lines\",\"item_title\":\"Glitch Lines\",\"item_description\":\"\",\"appid\":730,\"item_type\":37,\"item_class\":13,\"movie_webm\":\"items/730/87d0c27fa931bfc5aabefa6fa735fb441c7d91b2.webm\",\"movie_mp4\":\"items/730/bd40258799ecb017e711db1637bf699d42ec63b5.mp4\",\"profile_colors\":[]},\"avatar_frame\":{\"communityitemid\":\"35504199200\",\"image_small\":\"items/730/0069a31ee7292be2aae3969b57a261e06a57bdcc.png\",\"image_large\":\"items/730/d3144089d2887c78289601e7b58c801773f0bcc9.png\",\"name\":\"Howl\",\"item_title\":\"Howl\",\"item_description\":\"\",\"appid\":730,\"item_type\":38,\"item_class\":14,\"profile_colors\":[]},\"animated_avatar\":{\"communityitemid\":\"35504199201\",\"image_small\":\"items/730/4a8b3a4ecf9207f9f66bc7085ba7a9db637ee8a5.gif\",\"image_large\":\"items/730/2a4e70a6e1a84f4df70a79c6ac3fdc878ca1a2f9.jpg\",\"name\":\"Howl\",\"item_title\":\"Howl\",\"item_description\":\"\",\"appid\":730,\"item_type\":39,\"item_class\":15,\"profile_colors\":[]},\"profile_modifier\":{\"communityitemid\":\"35504199197\",\"image_small\":\"items/730/4e3505bf0a2e158bafbb3cd0b39b4c1b9993bc56.jpg\",\"image_large\":\"items/730/5a726c956a85ba9b60b9b9400e8df94c547dfdcf.jpg\",\"name\":\"Counter-Strike: Global Offensive Profile\",\"item_title\":\"Counter-Strike: Global Offensive Profile\",\"item_description\":\"\",\"appid\":730,\"item_type\":35,\"item_class\":8,\"profile_colors\":[]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
+		"OverlaySavedDataV2_730_windows"		"{\"version\":2,\"data\":[[\"FriendsList\",0],[\"Screenshots\",0],[\"Browser\",1]]}"
+		"OverlaySavedDataV2_730_webrequests"		"{\"version\":1,\"data\":{\"activeWebPageRequestID\":1,\"rgRequests\":[{\"requestid\":1,\"strURL\":\"https://www.google.com/\",\"strLastURL\":\"https://www.google.com/\",\"strTitle\":\"Google\"}]}}"
 		"spotlight_dlc_store"		"{\"924970\":{\"rtShowStart\":1731248798,\"rtFirstShow\":1731248798}}"
-		"spotlight_gameplaysession_store"		"{\"924970\":1731248800}"
+		"spotlight_gameplaysession_store"		"{\"730\":1755260011,\"924970\":1731248800}"
 		"SteamVoiceSettings_1202955516"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"a635495cfd1d25db8d3f4f47eed425bbd7b14a6b5e6d0561747c55ebaed36ca2\",\"selectedOutput\":\"9292266f91143610fc29b0b5181fc350b75db8700b2800703540248b05e9f9a0\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true,\"useSteamAudioSpatialization\":false}"
 		"CTextFilterStore_TextFilterPreferences_1202955516"		"{\"eTextFilterSetting\":3,\"bIgnoreFriends\":1}"
 		"CTextFilterStore_TextFilterWords_1202955516"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
@@ -4666,9 +4677,9 @@
 		"CTextFilterStore_strCleanPattern_1202955516"		"KDEpXihcYihmYWsoZWR8ZXJzP3xpbmcpfGtvbXBldGVuenRlYW185rS+6YCB5ZGYfHBpbmVncm92ZXxuXC5lXC5pZ1wuZVwufGZ1a3VzaGltYXxzbmlnZ2VyfG5pZSBnZWV8ZnVrdW9rYXxmdWNoc2lhfGZ1Y2hpYW58Y29ja1wubGl8cGh1a2V0fGZ1eGl1c3xmdWN1cm98bmllZ298bmllYm98bmllYmF8bmVpZ2V8bmVnZ3l8bmViYnl8ZnV4aXN8Y3dmYWd8cHViZ3xuaWJ5fG5lYnV8bmVib3xmdWt1fGZ1a2l8ZmFrdHxnMjR8ZmNyfFx3KmZ2Y2h2b1x3KmZhayhlZHxlcnM/fGluZyl8a29tcGV0ZW56dGVhbXzmtL7pgIHlkZh8cGluZWdyb3ZlfG5cLmVcLmlnXC5lXC58ZnVrdXNoaW1hfHNuaWdnZXJ8bmllIGdlZXxmdWt1b2thfGZ1Y2hzaWF8ZnVjaGlhbnxjb2NrXC5saXxwaHVrZXR8ZnV4aXVzfGZ1Y3Vyb3xuaWVnb3xuaWVib3xuaWViYXxuZWlnZXxuZWdneXxuZWJieXxmdXhpc3xjd2ZhZ3xwdWJnfG5pYnl8bmVidXxuZWJvfGZ1a3V8ZnVraXxmYWt0fGcyNHxmY3J8XHcqZnZjaHZvXHcqKVxiKSQ="
 		"ChatStorePopupState_1202955516"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
 		"GetEquippedProfileItemsForUser76561199163221244"		"{\"profile_background\":{\"profile_colors\":[]},\"mini_profile_background\":{\"profile_colors\":[]},\"avatar_frame\":{\"profile_colors\":[]},\"animated_avatar\":{\"profile_colors\":[]},\"profile_modifier\":{\"profile_colors\":[]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
-		"GameInvites_292891650"		"{\"dismisstimes\":[[0,[0,[0,[316923242,1737793711]]]],[1,[1,[1,[320165719,1738868679]]]],[2,[2,[2,[292891650,1738868393]]]],[3,[3,[3,[1074169241,1738088439]]]],[4,[4,[1074169241,1738088477]]],[5,[413048665,1743980732]],[313107539,1743980165],[413048665,1743980775]]}"
+		"GameInvites_292891650"		"{\"dismisstimes\":[[0,[0,[0,[0,[0,[0,[316923242,1737793711]]]]]]],[1,[1,[1,[1,[1,[1,[320165719,1738868679]]]]]]],[2,[2,[2,[2,[2,[2,[292891650,1738868393]]]]]]],[3,[3,[3,[3,[3,[3,[1074169241,1738088439]]]]]]],[4,[4,[4,[4,[4,[1074169241,1738088477]]]]]],[5,[5,[5,[5,[413048665,1743980732]]]]],[6,[6,[6,[313107539,1743980165]]]],[7,[7,[7,[413048665,1743980775]]]],[8,[8,[374167981,1755208641]]],[9,[9,[292891650,1754848030]]],[10,[891423239,1755213174]],[891423239,1755213174]]}"
 		"LocalizedTagNames2_english"		"{\"version_hash\":\"274331868\",\"tags\":[{\"tagid\":9,\"name\":\"Strategy\"},{\"tagid\":19,\"name\":\"Action\"},{\"tagid\":21,\"name\":\"Adventure\"},{\"tagid\":84,\"name\":\"Design & Illustration\"},{\"tagid\":87,\"name\":\"Utilities\"},{\"tagid\":113,\"name\":\"Free to Play\"},{\"tagid\":122,\"name\":\"RPG\"},{\"tagid\":128,\"name\":\"Massively Multiplayer\"},{\"tagid\":492,\"name\":\"Indie\"},{\"tagid\":493,\"name\":\"Early Access\"},{\"tagid\":597,\"name\":\"Casual\"},{\"tagid\":599,\"name\":\"Simulation\"},{\"tagid\":699,\"name\":\"Racing\"},{\"tagid\":701,\"name\":\"Sports\"},{\"tagid\":784,\"name\":\"Video Production\"},{\"tagid\":809,\"name\":\"Photo Editing\"},{\"tagid\":872,\"name\":\"Animation & Modeling\"},{\"tagid\":1027,\"name\":\"Audio Production\"},{\"tagid\":1036,\"name\":\"Education\"},{\"tagid\":1038,\"name\":\"Web Publishing\"},{\"tagid\":1445,\"name\":\"Software Training\"},{\"tagid\":1616,\"name\":\"Trains\"},{\"tagid\":1621,\"name\":\"Music\"},{\"tagid\":1625,\"name\":\"Platformer\"},{\"tagid\":1628,\"name\":\"Metroidvania\"},{\"tagid\":1638,\"name\":\"Dog\"},{\"tagid\":1643,\"name\":\"Building\"},{\"tagid\":1644,\"name\":\"Driving\"},{\"tagid\":1645,\"name\":\"Tower Defense\"},{\"tagid\":1646,\"name\":\"Hack and Slash\"},{\"tagid\":1647,\"name\":\"Western\"},{\"tagid\":1649,\"name\":\"GameMaker\"},{\"tagid\":1651,\"name\":\"Satire\"},{\"tagid\":1654,\"name\":\"Relaxing\"},{\"tagid\":1659,\"name\":\"Zombies\"},{\"tagid\":1662,\"name\":\"Survival\"},{\"tagid\":1663,\"name\":\"FPS\"},{\"tagid\":1664,\"name\":\"Puzzle\"},{\"tagid\":1665,\"name\":\"Match 3\"},{\"tagid\":1666,\"name\":\"Card Game\"},{\"tagid\":1667,\"name\":\"Horror\"},{\"tagid\":1669,\"name\":\"Moddable\"},{\"tagid\":1670,\"name\":\"4X\"},{\"tagid\":1671,\"name\":\"Superhero\"},{\"tagid\":1673,\"name\":\"Aliens\"},{\"tagid\":1674,\"name\":\"Typing\"},{\"tagid\":1676,\"name\":\"RTS\"},{\"tagid\":1677,\"name\":\"Turn-Based\"},{\"tagid\":1678,\"name\":\"War\"},{\"tagid\":1680,\"name\":\"Heist\"},{\"tagid\":1681,\"name\":\"Pirates\"},{\"tagid\":1684,\"name\":\"Fantasy\"},{\"tagid\":1685,\"name\":\"Co-op\"},{\"tagid\":1687,\"name\":\"Stealth\"},{\"tagid\":1688,\"name\":\"Ninja\"},{\"tagid\":1693,\"name\":\"Classic\"},{\"tagid\":1695,\"name\":\"Open World\"},{\"tagid\":1697,\"name\":\"Third Person\"},{\"tagid\":1698,\"name\":\"Point & Click\"},{\"tagid\":1702,\"name\":\"Crafting\"},{\"tagid\":1708,\"name\":\"Tactical\"},{\"tagid\":1710,\"name\":\"Surreal\"},{\"tagid\":1714,\"name\":\"Psychedelic\"},{\"tagid\":1716,\"name\":\"Roguelike\"},{\"tagid\":1717,\"name\":\"Hex Grid\"},{\"tagid\":1718,\"name\":\"MOBA\"},{\"tagid\":1719,\"name\":\"Comedy\"},{\"tagid\":1720,\"name\":\"Dungeon Crawler\"},{\"tagid\":1721,\"name\":\"Psychological Horror\"},{\"tagid\":1723,\"name\":\"Action RTS\"},{\"tagid\":1730,\"name\":\"Sokoban\"},{\"tagid\":1732,\"name\":\"Voxel\"},{\"tagid\":1733,\"name\":\"Unforgiving\"},{\"tagid\":1734,\"name\":\"Fast-Paced\"},{\"tagid\":1736,\"name\":\"LEGO\"},{\"tagid\":1738,\"name\":\"Hidden Object\"},{\"tagid\":1741,\"name\":\"Turn-Based Strategy\"},{\"tagid\":1742,\"name\":\"Story Rich\"},{\"tagid\":1743,\"name\":\"Fighting\"},{\"tagid\":1746,\"name\":\"Basketball\"},{\"tagid\":1751,\"name\":\"Comic Book\"},{\"tagid\":1752,\"name\":\"Rhythm\"},{\"tagid\":1753,\"name\":\"Skateboarding\"},{\"tagid\":1754,\"name\":\"MMORPG\"},{\"tagid\":1755,\"name\":\"Space\"},{\"tagid\":1756,\"name\":\"Great Soundtrack\"},{\"tagid\":1759,\"name\":\"Perma Death\"},{\"tagid\":1770,\"name\":\"Board Game\"},{\"tagid\":1773,\"name\":\"Arcade\"},{\"tagid\":1774,\"name\":\"Shooter\"},{\"tagid\":1775,\"name\":\"PvP\"},{\"tagid\":1777,\"name\":\"Steampunk\"},{\"tagid\":3796,\"name\":\"Based On A Novel\"},{\"tagid\":3798,\"name\":\"Side Scroller\"},{\"tagid\":3799,\"name\":\"Visual Novel\"},{\"tagid\":3810,\"name\":\"Sandbox\"},{\"tagid\":3813,\"name\":\"Real Time Tactics\"},{\"tagid\":3814,\"name\":\"Third-Person Shooter\"},{\"tagid\":3834,\"name\":\"Exploration\"},{\"tagid\":3835,\"name\":\"Post-apocalyptic\"},{\"tagid\":3839,\"name\":\"First-Person\"},{\"tagid\":3841,\"name\":\"Local Co-Op\"},{\"tagid\":3843,\"name\":\"Online Co-Op\"},{\"tagid\":3854,\"name\":\"Lore-Rich\"},{\"tagid\":3859,\"name\":\"Multiplayer\"},{\"tagid\":3871,\"name\":\"2D\"},{\"tagid\":3877,\"name\":\"Precision Platformer\"},{\"tagid\":3878,\"name\":\"Competitive\"},{\"tagid\":3916,\"name\":\"Old School\"},{\"tagid\":3920,\"name\":\"Cooking\"},{\"tagid\":3934,\"name\":\"Immersive\"},{\"tagid\":3942,\"name\":\"Sci-fi\"},{\"tagid\":3952,\"name\":\"Gothic\"},{\"tagid\":3954,\"name\":\"Rail Shooter\"},{\"tagid\":3955,\"name\":\"Character Action Game\"},{\"tagid\":3959,\"name\":\"Roguelite\"},{\"tagid\":3964,\"name\":\"Pixel Graphics\"},{\"tagid\":3965,\"name\":\"Epic\"},{\"tagid\":3968,\"name\":\"Physics\"},{\"tagid\":3978,\"name\":\"Survival Horror\"},{\"tagid\":3987,\"name\":\"Historical\"},{\"tagid\":3993,\"name\":\"Combat\"},{\"tagid\":4004,\"name\":\"Retro\"},{\"tagid\":4018,\"name\":\"Vampire\"},{\"tagid\":4026,\"name\":\"Difficult\"},{\"tagid\":4036,\"name\":\"Parkour\"},{\"tagid\":4046,\"name\":\"Dragons\"},{\"tagid\":4057,\"name\":\"Magic\"},{\"tagid\":4064,\"name\":\"Thriller\"},{\"tagid\":4085,\"name\":\"Anime\"},{\"tagid\":4094,\"name\":\"Minimalist\"},{\"tagid\":4102,\"name\":\"Combat Racing\"},{\"tagid\":4106,\"name\":\"Action-Adventure\"},{\"tagid\":4115,\"name\":\"Cyberpunk\"},{\"tagid\":4136,\"name\":\"Funny\"},{\"tagid\":4137,\"name\":\"Transhumanism\"},{\"tagid\":4145,\"name\":\"Cinematic\"},{\"tagid\":4150,\"name\":\"World War II\"},{\"tagid\":4155,\"name\":\"Class-Based\"},{\"tagid\":4158,\"name\":\"Beat 'em up\"},{\"tagid\":4161,\"name\":\"Real-Time\"},{\"tagid\":4162,\"name\":\"Kids\"},{\"tagid\":4166,\"name\":\"Atmospheric\"},{\"tagid\":4168,\"name\":\"Military\"},{\"tagid\":4172,\"name\":\"Medieval\"},{\"tagid\":4175,\"name\":\"Realistic\"},{\"tagid\":4182,\"name\":\"Singleplayer\"},{\"tagid\":4184,\"name\":\"Chess\"},{\"tagid\":4190,\"name\":\"Addictive\"},{\"tagid\":4191,\"name\":\"3D\"},{\"tagid\":4195,\"name\":\"Cartoony\"},{\"tagid\":4202,\"name\":\"Trading\"},{\"tagid\":4231,\"name\":\"Action RPG\"},{\"tagid\":4234,\"name\":\"Short\"},{\"tagid\":4236,\"name\":\"Loot\"},{\"tagid\":4242,\"name\":\"Episodic\"},{\"tagid\":4252,\"name\":\"Stylized\"},{\"tagid\":4255,\"name\":\"Shoot 'Em Up\"},{\"tagid\":4291,\"name\":\"Spaceships\"},{\"tagid\":4295,\"name\":\"Futuristic\"},{\"tagid\":4305,\"name\":\"Colorful\"},{\"tagid\":4325,\"name\":\"Turn-Based Combat\"},{\"tagid\":4328,\"name\":\"City Builder\"},{\"tagid\":4342,\"name\":\"Dark\"},{\"tagid\":4345,\"name\":\"Gore\"},{\"tagid\":4364,\"name\":\"Grand Strategy\"},{\"tagid\":4376,\"name\":\"Assassin\"},{\"tagid\":4400,\"name\":\"Abstract\"},{\"tagid\":4434,\"name\":\"JRPG\"},{\"tagid\":4474,\"name\":\"CRPG\"},{\"tagid\":4486,\"name\":\"Choose Your Own Adventure\"},{\"tagid\":4508,\"name\":\"Co-op Campaign\"},{\"tagid\":4520,\"name\":\"Farming\"},{\"tagid\":4559,\"name\":\"Quick-Time Events\"},{\"tagid\":4562,\"name\":\"Cartoon\"},{\"tagid\":4598,\"name\":\"Alternate History\"},{\"tagid\":4604,\"name\":\"Dark Fantasy\"},{\"tagid\":4608,\"name\":\"Swordplay\"},{\"tagid\":4637,\"name\":\"Top-Down Shooter\"},{\"tagid\":4667,\"name\":\"Violent\"},{\"tagid\":4684,\"name\":\"Wargame\"},{\"tagid\":4695,\"name\":\"Economy\"},{\"tagid\":4700,\"name\":\"Movie\"},{\"tagid\":4711,\"name\":\"Replay Value\"},{\"tagid\":4726,\"name\":\"Cute\"},{\"tagid\":4736,\"name\":\"2D Fighter\"},{\"tagid\":4747,\"name\":\"Character Customization\"},{\"tagid\":4754,\"name\":\"Politics\"},{\"tagid\":4758,\"name\":\"Twin Stick Shooter\"},{\"tagid\":4777,\"name\":\"Spectacle fighter\"},{\"tagid\":4791,\"name\":\"Top-Down\"},{\"tagid\":4821,\"name\":\"Mechs\"},{\"tagid\":4835,\"name\":\"6DOF\"},{\"tagid\":4840,\"name\":\"4 Player Local\"},{\"tagid\":4845,\"name\":\"Capitalism\"},{\"tagid\":4853,\"name\":\"Political\"},{\"tagid\":4878,\"name\":\"Parody \"},{\"tagid\":4885,\"name\":\"Bullet Hell\"},{\"tagid\":4947,\"name\":\"Romance\"},{\"tagid\":4975,\"name\":\"2.5D\"},{\"tagid\":4994,\"name\":\"Naval Combat\"},{\"tagid\":5030,\"name\":\"Dystopian \"},{\"tagid\":5055,\"name\":\"eSports\"},{\"tagid\":5094,\"name\":\"Narration\"},{\"tagid\":5125,\"name\":\"Procedural Generation\"},{\"tagid\":5153,\"name\":\"Kickstarter\"},{\"tagid\":5154,\"name\":\"Score Attack\"},{\"tagid\":5160,\"name\":\"Dinosaurs\"},{\"tagid\":5179,\"name\":\"Cold War\"},{\"tagid\":5186,\"name\":\"Psychological\"},{\"tagid\":5228,\"name\":\"Blood\"},{\"tagid\":5230,\"name\":\"Sequel\"},{\"tagid\":5300,\"name\":\"God Game\"},{\"tagid\":5310,\"name\":\"Games Workshop\"},{\"tagid\":5348,\"name\":\"Mod\"},{\"tagid\":5350,\"name\":\"Family Friendly\"},{\"tagid\":5363,\"name\":\"Destruction\"},{\"tagid\":5372,\"name\":\"Conspiracy\"},{\"tagid\":5379,\"name\":\"2D Platformer\"},{\"tagid\":5382,\"name\":\"World War I\"},{\"tagid\":5390,\"name\":\"Time Attack\"},{\"tagid\":5395,\"name\":\"3D Platformer\"},{\"tagid\":5407,\"name\":\"Benchmark\"},{\"tagid\":5411,\"name\":\"Beautiful\"},{\"tagid\":5432,\"name\":\"Programming\"},{\"tagid\":5502,\"name\":\"Hacking\"},{\"tagid\":5537,\"name\":\"Puzzle Platformer\"},{\"tagid\":5547,\"name\":\"Arena Shooter\"},{\"tagid\":5577,\"name\":\"RPGMaker\"},{\"tagid\":5608,\"name\":\"Emotional\"},{\"tagid\":5611,\"name\":\"Mature\"},{\"tagid\":5613,\"name\":\"Detective\"},{\"tagid\":5652,\"name\":\"Collectathon\"},{\"tagid\":5673,\"name\":\"Modern\"},{\"tagid\":5708,\"name\":\"Remake\"},{\"tagid\":5711,\"name\":\"Team-Based\"},{\"tagid\":5716,\"name\":\"Mystery\"},{\"tagid\":5727,\"name\":\"Baseball\"},{\"tagid\":5752,\"name\":\"Robots\"},{\"tagid\":5765,\"name\":\"Gun Customization\"},{\"tagid\":5794,\"name\":\"Science\"},{\"tagid\":5796,\"name\":\"Bullet Time\"},{\"tagid\":5851,\"name\":\"Isometric\"},{\"tagid\":5900,\"name\":\"Walking Simulator\"},{\"tagid\":5914,\"name\":\"Tennis\"},{\"tagid\":5923,\"name\":\"Dark Humor\"},{\"tagid\":5941,\"name\":\"Reboot\"},{\"tagid\":5981,\"name\":\"Mining\"},{\"tagid\":5984,\"name\":\"Drama\"},{\"tagid\":6041,\"name\":\"Horses\"},{\"tagid\":6052,\"name\":\"Noir\"},{\"tagid\":6129,\"name\":\"Logic\"},{\"tagid\":6214,\"name\":\"Birds\"},{\"tagid\":6276,\"name\":\"Inventory Management\"},{\"tagid\":6310,\"name\":\"Diplomacy\"},{\"tagid\":6378,\"name\":\"Crime\"},{\"tagid\":6426,\"name\":\"Choices Matter\"},{\"tagid\":6506,\"name\":\"3D Fighter\"},{\"tagid\":6621,\"name\":\"Pinball\"},{\"tagid\":6625,\"name\":\"Time Manipulation\"},{\"tagid\":6650,\"name\":\"Nudity\"},{\"tagid\":6691,\"name\":\"1990's\"},{\"tagid\":6702,\"name\":\"Mars\"},{\"tagid\":6730,\"name\":\"PvE\"},{\"tagid\":6815,\"name\":\"Hand-drawn\"},{\"tagid\":6869,\"name\":\"Nonlinear\"},{\"tagid\":6910,\"name\":\"Naval\"},{\"tagid\":6915,\"name\":\"Martial Arts\"},{\"tagid\":6948,\"name\":\"Rome\"},{\"tagid\":6971,\"name\":\"Multiple Endings\"},{\"tagid\":7038,\"name\":\"Golf\"},{\"tagid\":7107,\"name\":\"Real-Time with Pause\"},{\"tagid\":7108,\"name\":\"Party\"},{\"tagid\":7113,\"name\":\"Crowdfunded\"},{\"tagid\":7178,\"name\":\"Party Game\"},{\"tagid\":7208,\"name\":\"Female Protagonist\"},{\"tagid\":7250,\"name\":\"Linear\"},{\"tagid\":7309,\"name\":\"Skiing\"},{\"tagid\":7328,\"name\":\"Bowling\"},{\"tagid\":7332,\"name\":\"Base Building\"},{\"tagid\":7368,\"name\":\"Local Multiplayer\"},{\"tagid\":7423,\"name\":\"Sniper\"},{\"tagid\":7432,\"name\":\"Lovecraftian\"},{\"tagid\":7478,\"name\":\"Illuminati\"},{\"tagid\":7481,\"name\":\"Controller\"},{\"tagid\":7556,\"name\":\"Dice\"},{\"tagid\":7569,\"name\":\"Grid-Based Movement\"},{\"tagid\":7622,\"name\":\"Offroad\"},{\"tagid\":7702,\"name\":\"Narrative\"},{\"tagid\":7743,\"name\":\"1980s\"},{\"tagid\":7782,\"name\":\"Cult Classic\"},{\"tagid\":7918,\"name\":\"Dwarf\"},{\"tagid\":7926,\"name\":\"Artificial Intelligence\"},{\"tagid\":7948,\"name\":\"Soundtrack\"},{\"tagid\":8013,\"name\":\"Software\"},{\"tagid\":8075,\"name\":\"TrackIR\"},{\"tagid\":8093,\"name\":\"Minigames\"},{\"tagid\":8122,\"name\":\"Level Editor\"},{\"tagid\":8253,\"name\":\"Music-Based Procedural Generation\"},{\"tagid\":8369,\"name\":\"Investigation\"},{\"tagid\":8461,\"name\":\"Well-Written\"},{\"tagid\":8666,\"name\":\"Runner\"},{\"tagid\":8945,\"name\":\"Resource Management\"},{\"tagid\":9130,\"name\":\"Hentai\"},{\"tagid\":9157,\"name\":\"Underwater\"},{\"tagid\":9204,\"name\":\"Immersive Sim\"},{\"tagid\":9271,\"name\":\"Trading Card Game\"},{\"tagid\":9541,\"name\":\"Demons\"},{\"tagid\":9551,\"name\":\"Dating Sim\"},{\"tagid\":9564,\"name\":\"Hunting\"},{\"tagid\":9592,\"name\":\"Dynamic Narration\"},{\"tagid\":9803,\"name\":\"Snow\"},{\"tagid\":9994,\"name\":\"Experience\"},{\"tagid\":10235,\"name\":\"Life Sim\"},{\"tagid\":10383,\"name\":\"Transportation\"},{\"tagid\":10397,\"name\":\"Memes\"},{\"tagid\":10437,\"name\":\"Trivia\"},{\"tagid\":10679,\"name\":\"Time Travel\"},{\"tagid\":10695,\"name\":\"Party-Based RPG\"},{\"tagid\":10808,\"name\":\"Supernatural\"},{\"tagid\":10816,\"name\":\"Split Screen\"},{\"tagid\":11014,\"name\":\"Interactive Fiction\"},{\"tagid\":11095,\"name\":\"Boss Rush\"},{\"tagid\":11104,\"name\":\"Vehicular Combat\"},{\"tagid\":11123,\"name\":\"Mouse only\"},{\"tagid\":11333,\"name\":\"Villain Protagonist\"},{\"tagid\":11634,\"name\":\"Vikings\"},{\"tagid\":12057,\"name\":\"Tutorial\"},{\"tagid\":12095,\"name\":\"Sexual Content\"},{\"tagid\":12190,\"name\":\"Boxing\"},{\"tagid\":12286,\"name\":\"Warhammer 40K\"},{\"tagid\":12472,\"name\":\"Management\"},{\"tagid\":13070,\"name\":\"Solitaire\"},{\"tagid\":13190,\"name\":\"America\"},{\"tagid\":13276,\"name\":\"Tanks\"},{\"tagid\":13382,\"name\":\"Archery\"},{\"tagid\":13577,\"name\":\"Sailing\"},{\"tagid\":13782,\"name\":\"Experimental\"},{\"tagid\":13906,\"name\":\"Game Development\"},{\"tagid\":14139,\"name\":\"Turn-Based Tactics\"},{\"tagid\":14153,\"name\":\"Dungeons & Dragons\"},{\"tagid\":14720,\"name\":\"Nostalgia\"},{\"tagid\":14906,\"name\":\"Intentionally Awkward Controls\"},{\"tagid\":15045,\"name\":\"Flight\"},{\"tagid\":15172,\"name\":\"Conversation\"},{\"tagid\":15277,\"name\":\"Philosophical\"},{\"tagid\":15339,\"name\":\"Documentary\"},{\"tagid\":15564,\"name\":\"Fishing\"},{\"tagid\":15868,\"name\":\"Motocross\"},{\"tagid\":15954,\"name\":\"Silent Protagonist\"},{\"tagid\":16094,\"name\":\"Mythology\"},{\"tagid\":16250,\"name\":\"Gambling\"},{\"tagid\":16598,\"name\":\"Space Sim\"},{\"tagid\":16689,\"name\":\"Time Management\"},{\"tagid\":17015,\"name\":\"Werewolves\"},{\"tagid\":17305,\"name\":\"Strategy RPG\"},{\"tagid\":17337,\"name\":\"Lemmings\"},{\"tagid\":17389,\"name\":\"Tabletop\"},{\"tagid\":17770,\"name\":\"Asynchronous Multiplayer\"},{\"tagid\":17894,\"name\":\"Cats\"},{\"tagid\":17927,\"name\":\"Pool\"},{\"tagid\":18594,\"name\":\"FMV\"},{\"tagid\":19568,\"name\":\"Cycling\"},{\"tagid\":19780,\"name\":\"Submarine\"},{\"tagid\":19995,\"name\":\"Dark Comedy\"},{\"tagid\":21006,\"name\":\"Underground\"},{\"tagid\":21725,\"name\":\"Tactical RPG\"},{\"tagid\":21978,\"name\":\"VR\"},{\"tagid\":22602,\"name\":\"Agriculture\"},{\"tagid\":22955,\"name\":\"Mini Golf\"},{\"tagid\":24003,\"name\":\"Word Game\"},{\"tagid\":24904,\"name\":\"NSFW\"},{\"tagid\":25085,\"name\":\"Touch-Friendly\"},{\"tagid\":26921,\"name\":\"Political Sim\"},{\"tagid\":27758,\"name\":\"Voice Control\"},{\"tagid\":28444,\"name\":\"Snowboarding\"},{\"tagid\":29363,\"name\":\"3D Vision\"},{\"tagid\":29482,\"name\":\"Souls-like\"},{\"tagid\":29855,\"name\":\"Ambient\"},{\"tagid\":30358,\"name\":\"Nature\"},{\"tagid\":30927,\"name\":\"Fox\"},{\"tagid\":31275,\"name\":\"Text-Based\"},{\"tagid\":31579,\"name\":\"Otome\"},{\"tagid\":32322,\"name\":\"Deckbuilding\"},{\"tagid\":33572,\"name\":\"Mahjong\"},{\"tagid\":35079,\"name\":\"Job Simulator\"},{\"tagid\":37799,\"name\":\"Combat Flight Simulator\"},{\"tagid\":40500,\"name\":\"Sexual Themes\"},{\"tagid\":42089,\"name\":\"Jump Scare\"},{\"tagid\":42329,\"name\":\"Coding\"},{\"tagid\":42804,\"name\":\"Action Roguelike\"},{\"tagid\":44868,\"name\":\"LGBTQ+\"},{\"tagid\":47827,\"name\":\"Wrestling\"},{\"tagid\":49213,\"name\":\"Rugby\"},{\"tagid\":51306,\"name\":\"Foreign\"},{\"tagid\":56690,\"name\":\"On-Rails Shooter\"},{\"tagid\":61357,\"name\":\"Electronic Music\"},{\"tagid\":71389,\"name\":\"Spelling\"},{\"tagid\":87918,\"name\":\"Farming Sim\"},{\"tagid\":91114,\"name\":\"Shop Keeper\"},{\"tagid\":92092,\"name\":\"Jet\"},{\"tagid\":96359,\"name\":\"Skating\"},{\"tagid\":97376,\"name\":\"Cozy\"},{\"tagid\":102530,\"name\":\"Elf\"},{\"tagid\":117648,\"name\":\"8-bit Music\"},{\"tagid\":123332,\"name\":\"Bikes\"},{\"tagid\":129761,\"name\":\"ATV\"},{\"tagid\":143739,\"name\":\"Electronic\"},{\"tagid\":150626,\"name\":\"Gaming\"},{\"tagid\":158638,\"name\":\"Cricket\"},{\"tagid\":176981,\"name\":\"Battle Royale\"},{\"tagid\":180368,\"name\":\"Faith\"},{\"tagid\":189941,\"name\":\"Instrumental Music\"},{\"tagid\":198631,\"name\":\"Mystery Dungeon\"},{\"tagid\":198913,\"name\":\"Motorbike\"},{\"tagid\":220585,\"name\":\"Colony Sim\"},{\"tagid\":233824,\"name\":\"Feature Film\"},{\"tagid\":252854,\"name\":\"BMX\"},{\"tagid\":255534,\"name\":\"Automation\"},{\"tagid\":323922,\"name\":\"Musou\"},{\"tagid\":324176,\"name\":\"Hockey\"},{\"tagid\":337964,\"name\":\"Rock Music\"},{\"tagid\":348922,\"name\":\"Steam Machine\"},{\"tagid\":353880,\"name\":\"Looter Shooter\"},{\"tagid\":363767,\"name\":\"Snooker\"},{\"tagid\":379975,\"name\":\"Clicker\"},{\"tagid\":454187,\"name\":\"Traditional Roguelike\"},{\"tagid\":552282,\"name\":\"Wholesome\"},{\"tagid\":603297,\"name\":\"Hardware\"},{\"tagid\":615955,\"name\":\"Idler\"},{\"tagid\":620519,\"name\":\"Hero Shooter\"},{\"tagid\":745697,\"name\":\"Social Deduction\"},{\"tagid\":769306,\"name\":\"Escape Room\"},{\"tagid\":776177,\"name\":\"360 Video\"},{\"tagid\":791774,\"name\":\"Card Battler\"},{\"tagid\":847164,\"name\":\"Volleyball\"},{\"tagid\":856791,\"name\":\"Asymmetric VR\"},{\"tagid\":916648,\"name\":\"Creature Collector\"},{\"tagid\":922563,\"name\":\"Roguevania\"},{\"tagid\":1023537,\"name\":\"Boomer Shooter\"},{\"tagid\":1084988,\"name\":\"Auto Battler\"},{\"tagid\":1091588,\"name\":\"Roguelike Deckbuilder\"},{\"tagid\":1100686,\"name\":\"Outbreak Sim\"},{\"tagid\":1100687,\"name\":\"Automobile Sim\"},{\"tagid\":1100688,\"name\":\"Medical Sim\"},{\"tagid\":1100689,\"name\":\"Open World Survival Craft\"},{\"tagid\":1199779,\"name\":\"Extraction Shooter\"},{\"tagid\":1220528,\"name\":\"Hobby Sim\"},{\"tagid\":1254546,\"name\":\"Football (Soccer)\"},{\"tagid\":1254552,\"name\":\"Football (American)\"}]}"
-		"FriendsOwnedGames_storage_413048665"		"{\"version\":1,\"data\":{\"setApps\":[7940,12150,42680,42690,271590,3240220,307690,730,476600,476620,976310,50130,1030830,1030840,1174180,12210,2195250,2641470]},\"lastFetchTimeMS\":1755113811646}"
+		"FriendsOwnedGames_storage_413048665"		"{\"version\":1,\"data\":{\"setApps\":[7940,12150,42680,42690,271590,3240220,307690,730,476600,476620,976310,50130,1030830,1030840,1174180,12210,2195250,2641470]},\"lastFetchTimeMS\":1755203831236}"
 		"FriendsOwnedGames_storage"		"{\"m_rgStorageKeys\":[413048665]}"
 	}
 	"system"
@@ -4716,10 +4727,10 @@
 		"ClientMode"		"3"
 		"ServerMode"		"3"
 	}
-	"RecentLocalPlayedGameIDs"		"da0200000000000016f79c680000000020d20800000000006f7e0a68d8600000"
+	"RecentLocalPlayedGameIDs"		"da0200000000000048339f680000000020d20800000000006f7e0a68d8600000"
 	"nettickets"
 	{
-		"730"		"010000004b7ec8d01905b63730ead09ed6af0f2c3787159673e002fe0f7a7d068d02b3f036e12195772cac7a15d6d6cbe810fad83ef264cf8cf5afef9fb386eb24beb9b41205660bf33fda8400b8489830febcb68f7896d53f18f00d7eb88885ab274b35fd7f42bd75c800898c93c75208928b12f7c0e8746c15e3d79b5b4c7b98bde421f65a5365f79f755e727a900697ed5603079034922e5b69e6f5038ed01939a1a50c1eb6373cb91bbbd595124989976a762deed58e23372bcfb6f76152befe716ef6e04728560d7cc5912e1b475e198578c579c2b0b775fde8f36ba0b9a4ffce89c5b2378e47d753cc31e201aa2527b8d0f7f3176537f8a19d52e7f5b22ff7ba5d7cac65536c038692115d07f0e888066705de8369d3321946cbff26e886259111f736bd89be46a42eba583ee55d39cb112fce7512e2c5b5104a266af3848333a6f6c493c7360b5a0dc2a75c41640aa70d4d0858ca622130a79800a8875bfffbfeecf2802a77b533444dad01c85dbc6c82e9c2ca401e15ce4955d9981f93552672ae64756d67de8f86fa5ca2f7f1682caa0faaf4def2d0b6da330b2e611f481a61a5eb4c2c8addc3b77acbd49f9f4ff20b1a43eaf5d2479bc5c6c32757da29171436c88ee6262e6ab71a497d6a0a90673eabc156b7c2ef0e8312a3546b1fff00bd16c026d34186e504d2d1ab33f89b7b95580d61af442060c9cc34ff66aaee759e2465d0361db97b6fe778735b6f1dd4c681ff03bb234c549245fab223dbb5b57bae252b45812a8b2e3a61093b6566fd9b2e49052433fbfeee6da09a73074f3c955f2dfc62e304fcbd1f9b0ec029800bf63a63f916ab35d70227fb0c349946faef8086ffaf435960cbbba4b4125ec2a6956e33a609ec663aa20397083280abdfbc5a6b49b5089cc5e17856fd913ca0581b870cf2b9b2afa6dacd2beb6c78037b3560f96bf905c46efe4e9d8d2e37e4057ade398c692ffb08ace67b32"
+		"730"		"010000004b7ec8d01905b63730ead09ed6af0f2c3787159673e002fe0f7a7d068d02b3f036e12195772cac7a15d6d6cbe810fad83ef264cf8cf5afef9fb386eb24beb9b41205660bf33fda8400b8489830febcb68f7896d53f18f00d7eb88885ab274b35fd7f42bd75c800898c93c75208928b12f7c0e8746c15e3d79b5b4c7b98bde421f65a5365f79f755e727a900697ed5603079034922e5b69e6f5038ed01939a1a50c1eb6373cb91bbbd595124989976a762deed58e23372bcfb6f76152befe716ef6e04728560d7cc5912e1b475e198578c579c2b0b775fde8f36ba0b9a4ffce89c5b2378e47d753cc31e201aa2527b8d03acd0ad25c696b"
 	}
 	"FamilyGroup"
 	{
@@ -4742,7 +4753,7 @@
 			}
 		}
 	}
-	"FavoriteServersLastUpdateTime"		"1755113811"
+	"FavoriteServersLastUpdateTime"		"1755203723"
 	"UserAppConfig"
 	{
 		"730"		"0055736572436f6e66696700016c616e677561676500656e676c697368000144697361626c6564444c430032323739373231000808"
