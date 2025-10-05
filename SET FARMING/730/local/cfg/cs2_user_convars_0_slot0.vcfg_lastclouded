@@ -44,6 +44,7 @@
 		"cl_grenadecrosshairdelay_smoke"		"2.000000"
 		"cl_inventory_radial_immediate_select"		"true"
 		"cl_inventory_radial_tap_to_cycle"		"true"
+		"cl_ironsight_dot_scale"		"1.000000"
 		"cl_ironsight_usecrosshaircolor"		"false"
 		"cl_prefer_lefthanded"		"false"
 		"cl_showloadout"		"false"
