@@ -20,7 +20,7 @@
 	"setting.coop_fullscreen"		"0"
 	"Autoconfig"		"2"
 	"setting.shaderquality"		"0"
-	"setting.r_texturefilteringquality"		"2"
+	"setting.r_texturefilteringquality"		"5"
 	"setting.msaa_samples"		"2"
 	"setting.r_csgo_cmaa_enable"		"0"
 	"setting.videocfg_shadow_quality"		"0"
