@@ -1,1 +1,1 @@
--window -w 948 -h 711 +fps_max 30 -nosound -nojoy +r_drawparticles 0 +mat_disable_fancy_blending 1 -nohltv -forcenovsync +violence_hblood 0 +r_dynamic 0 -novid
+-window -w 638 -h 484 -nosound -nojoy -novid -nohltv -forcenovsync +exec autoexec +fps_max 10 +fps_max_ui 10 +r_drawparticles 0 +mat_disable_fancy_blending 1 +violence_hblood 0 +r_dynamic 0
