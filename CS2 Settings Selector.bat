@@ -1,122 +1,126 @@
+::[Bat To Exe Converter]
+::
+::YAwzoRdxOk+EWAjk
+::fBw5plQjdCyDJGyX8VAjFChcQxOQPX36PLQR6ebHy+WQrEESVeYsRIbY1bqdeK0A71HwfJgqxTcOyJtCBRhXHg==
+::YAwzuBVtJxjWCl3EqQJgSA==
+::ZR4luwNxJguZRRnk
+::Yhs/ulQjdF+5
+::cxAkpRVqdFKZSDk=
+::cBs/ulQjdF+5
+::ZR41oxFsdFKZSDk=
+::eBoioBt6dFKZSDk=
+::cRo6pxp7LAbNWATEpCI=
+::egkzugNsPRvcWATEpCI=
+::dAsiuh18IRvcCxnZtBJQ
+::cRYluBh/LU+EWAnk
+::YxY4rhs+aU+JeA==
+::cxY6rQJ7JhzQF1fEqQJQ
+::ZQ05rAF9IBncCkqN+0xwdVs0
+::ZQ05rAF9IAHYFVzEqQJQ
+::eg0/rx1wNQPfEVWB+kM9LVsJDGQ=
+::fBEirQZwNQPfEVWB+kM9LVsJDGQ=
+::cRolqwZ3JBvQF1fEqQJQ
+::dhA7uBVwLU+EWDk=
+::YQ03rBFzNR3SWATElA==
+::dhAmsQZ3MwfNWATElA==
+::ZQ0/vhVqMQ3MEVWAtB9wSA==
+::Zg8zqx1/OA3MEVWAtB9wSA==
+::dhA7pRFwIByZRRnk
+::Zh4grVQjdCuDJH6N4GolKid3f1bPD26uErwS7/u23O+Lp04JW/ADW7yJmoeLNPQa5EL3NaUo2n9ZjMQeTC0WLFyudgpU
+::YB416Ek+ZG8=
+::
+::
+::978f952a14a936cc963da21a135fa983
 @echo off
-setlocal EnableExtensions EnableDelayedExpansion
-title CS2 Settings Selector
-
-:menu
 cls
-echo.
-echo  =========================================================
-echo                    CS2 SETTINGS SELECTOR
-echo  =========================================================
-echo.
-echo    [1] MAIN
-echo    [2] TRYHARD
-echo    [3] FARMING
-echo    [4] ARMSRACE
-echo    [5] SKIN INSPECT
-echo    [6] PLAYHOUR
-echo    [0] EXIT
-echo.
-echo  =========================================================
-echo.
 
-set "choice="
-set /p "choice=Enter your choice (0-6): "
-
-if /i "%choice%"=="0" exit /b
-if /i "%choice%"=="1" set "settingFolder=SET MAIN" & goto continue
-if /i "%choice%"=="2" set "settingFolder=SET TRYHARD" & goto continue
-if /i "%choice%"=="3" set "settingFolder=SET FARMING" & goto continue
-if /i "%choice%"=="4" set "settingFolder=SET ARMSRACE" & goto continue
-if /i "%choice%"=="5" set "settingFolder=SET SKIN INSPECT" & goto continue
-if /i "%choice%"=="6" set "settingFolder=SET PLAYHOUR" & goto continue
-
+echo ==========================================
+echo         CS2 SETTINGS SELECTOR
+echo ==========================================
 echo.
-echo  [ERROR] Invalid choice. Please enter a number from 0 to 6.
+echo [1] MAIN
+echo [2] TRYHARD
+echo [3] FARM
+echo [4] ARMSRACE
+echo [5] SKIN INSPECT
+echo [6] PLAYHOUR
+echo [0] EXIT
 echo.
-pause
-goto menu
+echo ==========================================
 
-:continue
-set "baseFolder="
+set /p "choice=Enter your choice (0/1/2/3/4/5/6): "
 
-:: Find the parent folder that contains the setting folders
+if "%choice%"=="0" exit /b
+
 for /d %%d in ("%~dp0..\*") do (
     if exist "%%d\SET MAIN" (
-        set "baseFolder=%%~fd"
+        set "baseFolder=%%d"
         goto foundBaseFolder
     )
 )
 
 echo.
-echo  [ERROR] Could not locate the settings base folder.
-echo  Make sure the script is inside a subfolder, and the parent folder
-echo  contains folders like:
-echo     SET MAIN
-echo     SET TRYHARD
-echo     SET FARMING
-echo     SET ARMSRACE
-echo     SET SKIN INSPECT
-echo     SET PLAYHOUR
-echo.
+echo ==========================================
+echo ERROR: Could not find settings folder.
+echo Make sure the SET folders are one level
+echo above this script.
+echo ==========================================
 pause
-goto menu
+exit /b
 
 :foundBaseFolder
-set "sourcePath=%baseFolder%\%settingFolder%"
-set "steamUserdata=C:\Program Files (x86)\Steam\userdata"
 
-cls
-echo.
-echo  =========================================================
-echo                    APPLYING CS2 SETTINGS
-echo  =========================================================
-echo.
-echo    Selected preset : %settingFolder%
-echo    Source path     : %sourcePath%
-echo    Steam userdata  : %steamUserdata%
-echo.
-echo  =========================================================
-echo.
-
-if not exist "%sourcePath%\" (
-    echo  [ERROR] Preset folder not found:
-    echo  %sourcePath%
-    echo.
-    pause
-    goto menu
-)
-
-if not exist "%steamUserdata%\" (
-    echo  [ERROR] Steam userdata folder not found:
-    echo  %steamUserdata%
-    echo.
-    echo  Check that Steam is installed in the default location.
-    echo.
-    pause
-    goto menu
-)
-
-set /a appliedCount=0
-
-for /d %%a in ("%steamUserdata%\*") do (
-    echo  Applying to: %%~nxa
-    xcopy "%sourcePath%\*" "%%~fa\" /s /e /i /y >nul
-    if not errorlevel 1 (
-        set /a appliedCount+=1
-    ) else (
-        echo    Warning: Copy may have failed for %%~fa
-    )
-)
-
-echo.
-echo  =========================================================
-if %appliedCount% GTR 0 (
-    echo  Done. Settings applied to %appliedCount% Steam userdata folder^(s^).
+if "%choice%"=="1" (
+    set "settingFolder=SET MAIN"
+) else if "%choice%"=="2" (
+    set "settingFolder=SET TRYHARD"
+) else if "%choice%"=="3" (
+    set "settingFolder=SET FARMING"
+) else if "%choice%"=="4" (
+    set "settingFolder=SET ARMSRACE"
+) else if "%choice%"=="5" (
+    set "settingFolder=SET SKIN INSPECT"
+) else if "%choice%"=="6" (
+    set "settingFolder=SET PLAYHOUR"
 ) else (
-    echo  No Steam userdata folders were updated.
+    echo.
+    echo ==========================================
+    echo Invalid choice. Please try again.
+    echo ==========================================
+    pause
+    exit /b
 )
-echo  =========================================================
+
 echo.
+echo ==========================================
+echo Selected Setting: %settingFolder%
+echo Path to Apply: %baseFolder%\%settingFolder%
+echo ==========================================
+
+if not exist "%baseFolder%\%settingFolder%" (
+    echo.
+    echo ==========================================
+    echo ERROR: Folder "%baseFolder%\%settingFolder%" not found!
+    echo Please ensure the folder exists.
+    echo ==========================================
+    pause
+    exit /b
+)
+
+echo.
+echo ==========================================
+echo Applying settings from:
+echo %baseFolder%\%settingFolder%
+echo ==========================================
+echo.
+
+for /D %%a in ("C:\Program Files (x86)\Steam\userdata\*") do (
+    echo Applying settings to: %%a
+    xcopy "%baseFolder%\%settingFolder%\*" "%%a\\" /s /e /y >nul
+)
+
+echo.
+echo ==========================================
+echo Settings applied successfully!
+echo ==========================================
 pause
-goto menu
