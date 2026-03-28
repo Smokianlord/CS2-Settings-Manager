@@ -1,8 +1,29 @@
-# CS2 Settings Selector
+## Overview
 
-The CS2 Settings Selector is a simple yet powerful tool that allows players to easily switch between different game settings for Counter-Strike 2. With this tool, users can manage and apply multiple configurations effortlessly, ensuring a tailored gaming experience for different accounts or play styles.
+CS2 Settings Selector is a lightweight tool for quickly switching between multiple Counter-Strike 2 configurations. It is designed for users managing different playstyles or multiple accounts.
+
+---
 
 ## Features
-- Select from up to 5 different settings.
-- Apply settings easily by entering the corresponding number (1/2/3/4/5).
-- Easily modify configuration (`cfg`) files for all accounts at once.
+
+- 6 preset configurations:
+  - MAIN
+  - TRYHARD
+  - FARMING
+  - ARMSRACE
+  - SKIN INSPECT
+  - PLAYHOUR
+
+- Simple numeric selection system  
+- Automatically applies settings to all Steam userdata folders  
+- Organized folder-based preset system  
+- Easy customization through cfg files  
+
+---
+
+## How to Use
+
+1. Place your configuration files inside each `SET` folder  
+2. Run the selector (`.bat` or `.exe`)  
+3. Enter the number corresponding to the preset  
+4. Settings will be applied automatically
