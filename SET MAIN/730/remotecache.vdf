@@ -1,6 +1,6 @@
 "730"
 {
-	"ChangeNumber"		"248"
+	"ChangeNumber"		"249"
 	"OSType"		"0"
 	"cfg/cs2_loadout_favorites.txt"
 	{
@@ -18,11 +18,11 @@
 	{
 		"root"		"0"
 		"size"		"1920"
-		"localtime"		"1774732611"
-		"time"		"1774732624"
-		"remotetime"		"1774732624"
-		"sha"		"6ffe276e3524d2fd28ab20a1861086414f783e6b"
-		"syncstate"		"1"
+		"localtime"		"1774850103"
+		"time"		"1774850119"
+		"remotetime"		"1774849366"
+		"sha"		"12838c861cbbcd562be6b25471218a315a777085"
+		"syncstate"		"3"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
 	}
@@ -30,11 +30,11 @@
 	{
 		"root"		"0"
 		"size"		"3319"
-		"localtime"		"1774732610"
-		"time"		"1774732624"
-		"remotetime"		"1774732624"
-		"sha"		"114c556af1ad00263b608c1934bc7a7dd0894c89"
-		"syncstate"		"1"
+		"localtime"		"1774850103"
+		"time"		"1774850119"
+		"remotetime"		"1774849366"
+		"sha"		"234b2ece2711f018484a675674c1d05a53668d23"
+		"syncstate"		"3"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
 	}
@@ -42,11 +42,11 @@
 	{
 		"root"		"0"
 		"size"		"734"
-		"localtime"		"1774732610"
-		"time"		"1774732624"
-		"remotetime"		"1774732624"
+		"localtime"		"1774850103"
+		"time"		"1774850119"
+		"remotetime"		"1774849366"
 		"sha"		"2f4e555170b54ce89c3fb6abe70ef14563467db9"
-		"syncstate"		"1"
+		"syncstate"		"3"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
 	}
@@ -54,11 +54,11 @@
 	{
 		"root"		"0"
 		"size"		"64"
-		"localtime"		"1774729441"
-		"time"		"1774729455"
-		"remotetime"		"1774729455"
+		"localtime"		"1774849376"
+		"time"		"1774849392"
+		"remotetime"		"1774849238"
 		"sha"		"1f2ad7a0adc5b23fae373b012c76844534a282d3"
-		"syncstate"		"1"
+		"syncstate"		"3"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
 	}
