@@ -1,0 +1,77 @@
+"730"
+{
+	"ChangeNumber"		"0"
+	"OSType"		"0"
+	"cfg/cs2_loadout_favorites.txt"
+	{
+		"root"		"0"
+		"size"		"23"
+		"localtime"		"1725218104"
+		"time"		"1725218118"
+		"remotetime"		"1725218118"
+		"sha"		"f5f7ecbaa73a5a733594eb2d00ffeaa564e360a1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"cfg/cs2_preferred_items.txt"
+	{
+		"root"		"0"
+		"size"		"1920"
+		"localtime"		"1774851234"
+		"time"		"1774851250"
+		"remotetime"		"1774849366"
+		"sha"		"2481c7ff7f4746f8919079aa645d3fc8e122e608"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"cs2_user_convars.vcfg"
+	{
+		"root"		"0"
+		"size"		"3319"
+		"localtime"		"1774851234"
+		"time"		"1774851250"
+		"remotetime"		"1774849366"
+		"sha"		"234b2ece2711f018484a675674c1d05a53668d23"
+		"syncstate"		"4"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"cs2_user_keys.vcfg"
+	{
+		"root"		"0"
+		"size"		"734"
+		"localtime"		"1774851234"
+		"time"		"1774851250"
+		"remotetime"		"1771804903"
+		"sha"		"2f4e555170b54ce89c3fb6abe70ef14563467db9"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"socache.dt"
+	{
+		"root"		"0"
+		"size"		"64"
+		"localtime"		"1774850813"
+		"time"		"1774850829"
+		"remotetime"		"1774729455"
+		"sha"		"1f2ad7a0adc5b23fae373b012c76844534a282d3"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"voice_ban.dt"
+	{
+		"root"		"0"
+		"size"		"177"
+		"localtime"		"1755114933"
+		"time"		"1755114947"
+		"remotetime"		"1755114947"
+		"sha"		"da4aa4d7304021401a1e7e1b1cd148e856ef3143"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

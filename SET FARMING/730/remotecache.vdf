@@ -1,0 +1,65 @@
+"730"
+{
+	"ChangeNumber"		"249"
+	"OSType"		"0"
+	"cfg/cs2_preferred_items.txt"
+	{
+		"root"		"0"
+		"size"		"1920"
+		"localtime"		"1774852404"
+		"time"		"1774852419"
+		"remotetime"		"1723131067"
+		"sha"		"5b844c0b802f0cd489fd16f1129005340645e903"
+		"syncstate"		"4"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"cs2_user_convars.vcfg"
+	{
+		"root"		"0"
+		"size"		"3321"
+		"localtime"		"1774852404"
+		"time"		"1774852419"
+		"remotetime"		"1723131067"
+		"sha"		"a9d877fdc8fdb40fe28f2a18e18b95a6221248fe"
+		"syncstate"		"4"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"cs2_user_keys.vcfg"
+	{
+		"root"		"0"
+		"size"		"734"
+		"localtime"		"1774852404"
+		"time"		"1774852419"
+		"remotetime"		"1723131067"
+		"sha"		"2f4e555170b54ce89c3fb6abe70ef14563467db9"
+		"syncstate"		"4"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"socache.dt"
+	{
+		"root"		"0"
+		"size"		"64"
+		"localtime"		"1774852344"
+		"time"		"1774852359"
+		"remotetime"		"1723131067"
+		"sha"		"75c7d51a726f867da00eb77c7ff2354fab94636b"
+		"syncstate"		"4"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"voice_ban.dt"
+	{
+		"root"		"0"
+		"size"		"177"
+		"localtime"		"1755114933"
+		"time"		"1755114947"
+		"remotetime"		"1755114947"
+		"sha"		"da4aa4d7304021401a1e7e1b1cd148e856ef3143"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
