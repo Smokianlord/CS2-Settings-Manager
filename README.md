@@ -6,7 +6,7 @@ It combines the old CS2 settings selector and folder maker tools into one cleane
 
 ## Preview
 
-![CS2 Settings Manager Preview](cs2_settings_manager_preview.png)
+<img width="1182" height="822" alt="image" src="https://github.com/user-attachments/assets/7437a354-4135-417d-aedf-b232b715f8ee" />
 
 ## Features
 
