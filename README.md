@@ -54,5 +54,3 @@ Extract the ZIP before running the app.
 5. Select the preset you want to apply.
 6. Confirm your Steam userdata folder path.
 7. Click **Apply Selected Settings**.
-
-Build Windows EXE.bat
