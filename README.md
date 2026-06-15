@@ -47,21 +47,12 @@ Extract the ZIP before running the app.
 
 ## How to Use
 
-1. Download the latest release ZIP.
-2. Extract the ZIP.
-3. Run the app.
-4. Click **Create SET Folders** if the folders are missing.
-5. Put your desired CS2 config/settings files inside the correct SET folder.
-6. Select the preset you want to apply.
-7. Confirm your Steam userdata folder path.
-8. Click **Apply Selected Settings**.
+1. Download the latest release.
+2. Run the app.
+3. Click **Create SET Folders** if the folders are missing.
+4. Put your desired CS2 config/settings files inside the correct SET folder.
+5. Select the preset you want to apply.
+6. Confirm your Steam userdata folder path.
+7. Click **Apply Selected Settings**.
 
-## Building the EXE
-
-If you want to build the Windows EXE yourself:
-
-1. Extract the project.
-2. Run:
-
-```bat
 Build Windows EXE.bat
