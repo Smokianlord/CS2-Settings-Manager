@@ -33,7 +33,3 @@ Each folder holds one set of CS2 config files. Applying a preset copies that fol
 6. Click **Apply Selected Settings**.
 
 The two `Launch Option` text files hold the CS2 launch options used for main and farming accounts.
-
-## License
-
-MIT, see [LICENSE](LICENSE).
