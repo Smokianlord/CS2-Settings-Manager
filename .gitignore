@@ -12,3 +12,15 @@ Thumbs.db
 .idea/
 # Personal shortcuts
 *.lnk
+
+# Steam account caches and per-account data (not settings)
+socache.dt
+voice_ban.dt
+remotecache.vdf
+qmmconnect.dt
+trustedlaunch.cfg
+*_lastclouded
+*.bak
+cs2_loadout_favorites.txt
+cs2_preferred_items.txt
+csgo_saved_item_shuffles.txt
