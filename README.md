@@ -1,28 +1,10 @@
-# CS2 Settings Manager V3
+# CS2 Settings Manager
 
-CS2 Settings Manager is a desktop utility for managing and switching Counter-Strike 2 settings across multiple Steam userdata profiles.
+A Windows app for switching CS2 settings on all Steam accounts on your PC. You keep different setting presets in `SET` folders and copy the one you want into every Steam account at once.
 
-It combines the old CS2 settings selector and folder maker tools into one cleaner Python desktop app with a CS2-inspired 3D HUD-style interface.
+<img width="1182" height="822" alt="CS2 Settings Manager window" src="https://github.com/user-attachments/assets/7437a354-4135-417d-aedf-b232b715f8ee" />
 
-## Preview
-
-<img width="1182" height="822" alt="image" src="https://github.com/user-attachments/assets/7437a354-4135-417d-aedf-b232b715f8ee" />
-
-## Features
-
-- Create missing CS2 settings folders automatically
-- Apply selected settings to every Steam userdata profile
-- Open the app folder directly
-- Open the Steam userdata folder directly
-- Open each SET folder directly
-- Activity log for actions and status updates
-- Cleaner CS2-inspired 3D interface
-- Dark HUD-style theme with orange and cyan accents
-- One app instead of multiple BAT files
-
-## Included Presets
-
-The app supports the following settings folders:
+## Presets
 
 - SET MAIN
 - SET TRYHARD
@@ -31,26 +13,27 @@ The app supports the following settings folders:
 - SET SKIN INSPECT
 - SET PLAYHOUR
 
-## How It Works
+Each folder holds one set of CS2 config files. Applying a preset copies that folder into every Steam `userdata` profile it finds, so you don't have to copy settings to each account by hand.
 
-Each SET folder stores a different CS2 configuration preset.
+## Features
 
-When you select a preset and apply it, the app copies that selected settings folder to all detected Steam userdata profiles. This makes it easier to manage multiple CS2 accounts or IDs without manually copying settings one by one.
+- Creates any missing `SET` folders.
+- Applies the chosen preset to every Steam profile.
+- Buttons to open the app folder, the Steam `userdata` folder, and each `SET` folder.
+- Log of what it did.
+- Replaces the old separate BAT files with one app.
 
-## Download
+## How to use
 
-Go to the **Releases** section and download the latest version:
+1. Run `CS2 Settings Manager.exe` (in this repo, or from [Releases](../../releases)).
+2. Click **Create SET Folders** if they are missing.
+3. Put your CS2 config files in the right `SET` folder.
+4. Pick a preset.
+5. Check the Steam `userdata` path.
+6. Click **Apply Selected Settings**.
 
-**CS2 Settings Manager V3**
+The two `Launch Option` text files hold the CS2 launch options used for main and farming accounts.
 
-Extract the ZIP before running the app.
+## License
 
-## How to Use
-
-1. Download the latest release.
-2. Run the app.
-3. Click **Create SET Folders** if the folders are missing.
-4. Put your desired CS2 config/settings files inside the correct SET folder.
-5. Select the preset you want to apply.
-6. Confirm your Steam userdata folder path.
-7. Click **Apply Selected Settings**.
+MIT, see [LICENSE](LICENSE).
